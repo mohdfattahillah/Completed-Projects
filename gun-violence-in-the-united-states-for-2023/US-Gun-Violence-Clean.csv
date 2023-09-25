@@ -1,0 +1,1674 @@
+,Incident ID,Incident Date,State,City or County,Killed,Injured
+0,2639130,2023-06-30,California,Florin,0.0,4.0
+1,2639623,2023-06-30,Illinois,Chicago,1.0,3.0
+2,2638784,2023-06-29,Texas,Odessa,1.0,4.0
+3,2638465,2023-06-28,North Carolina,Greensboro,3.0,2.0
+4,2636671,2023-06-26,Michigan,Ypsilanti,2.0,2.0
+5,2634835,2023-06-25,Missouri,Kansas City,3.0,6.0
+6,2635065,2023-06-25,Texas,Missouri City,1.0,3.0
+7,2635437,2023-06-25,Ohio,Cincinnati,0.0,4.0
+8,2634933,2023-06-25,Maryland,Temple Hills (Marlow Heights),0.0,4.0
+9,2634840,2023-06-25,Indiana,Indianapolis,3.0,1.0
+10,2635243,2023-06-24,North Carolina,Asheboro,0.0,4.0
+11,2634357,2023-06-24,Texas,Beaumont,0.0,5.0
+12,2634147,2023-06-24,Michigan,Saginaw,2.0,11.0
+13,2634135,2023-06-24,Florida,Orlando,2.0,2.0
+14,2632283,2023-06-21,Texas,Fort Worth,1.0,3.0
+15,2630581,2023-06-20,Michigan,Pontiac,1.0,3.0
+16,2629821,2023-06-19,Illinois,Chicago,1.0,3.0
+17,2629745,2023-06-19,Wisconsin,Milwaukee,0.0,6.0
+18,2628072,2023-06-18,Illinois,Willowbrook,1.0,22.0
+19,2628083,2023-06-18,Missouri,Saint Louis,1.0,9.0
+20,2629211,2023-06-18,Idaho,Kellogg,4.0,0.0
+21,2629196,2023-06-18,North Carolina,Greenville,1.0,5.0
+22,2628950,2023-06-18,Illinois,Chicago,2.0,3.0
+23,2628104,2023-06-18,Illinois,Chicago,1.0,3.0
+24,2628094,2023-06-18,Georgia,Decatur,0.0,5.0
+25,2629262,2023-06-18,Michigan,Detroit,0.0,4.0
+26,2627254,2023-06-17,Illinois,Chicago,0.0,5.0
+27,2627729,2023-06-17,Pennsylvania,Philadelphia,0.0,5.0
+28,2627193,2023-06-17,Wisconsin,La Crosse,0.0,7.0
+29,2627442,2023-06-17,North Carolina,Winston Salem (Winston-salem),0.0,4.0
+30,2627199,2023-06-17,Indiana,Indianapolis,0.0,4.0
+31,2627418,2023-06-17,North Carolina,Charlotte,1.0,3.0
+32,2629270,2023-06-17,Louisiana,Alexandria,1.0,3.0
+33,2627958,2023-06-17,Washington,Quincy,2.0,2.0
+34,2630156,2023-06-17,Ohio,Cleveland,0.0,4.0
+35,2626827,2023-06-16,Maryland,Baltimore,0.0,6.0
+36,2627283,2023-06-16,California,Carson,0.0,8.0
+37,2627013,2023-06-16,New Jersey,Clifton,0.0,4.0
+38,2625892,2023-06-15,Ohio,New Richmond,3.0,1.0
+39,2626402,2023-06-15,Tennessee,Sequatchie,5.0,1.0
+40,2625636,2023-06-15,South Carolina,Greenville,0.0,4.0
+41,2625603,2023-06-14,Oklahoma,Tulsa,1.0,3.0
+42,2625182,2023-06-13,Ohio,Cincinnati,0.0,4.0
+43,2623809,2023-06-13,Colorado,Denver,0.0,9.0
+44,2622044,2023-06-11,New York,Syracuse,0.0,4.0
+45,2622008,2023-06-11,Texas,Houston,0.0,6.0
+46,2622062,2023-06-11,California,Antioch,1.0,6.0
+47,2668127,2023-06-11,Louisiana,Labadieville,0.0,7.0
+48,2622547,2023-06-11,Maryland,Annapolis,3.0,3.0
+49,2622140,2023-06-11,Illinois,Champaign,0.0,4.0
+50,2622484,2023-06-11,Texas,Crosby,1.0,4.0
+51,2621754,2023-06-10,Mississippi,Hattiesburg,0.0,4.0
+52,2621640,2023-06-10,Illinois,Oak Park,0.0,4.0
+53,2622344,2023-06-10,Washington,Benton City,1.0,5.0
+54,2621241,2023-06-09,California,San Francisco,0.0,9.0
+55,2621359,2023-06-09,Pennsylvania,Jeannette,1.0,4.0
+56,2620695,2023-06-08,South Carolina,North Charleston,1.0,3.0
+57,2619908,2023-06-07,California,Sacramento,0.0,7.0
+58,2618358,2023-06-06,Virginia,Richmond,2.0,5.0
+59,2617560,2023-06-05,Mississippi,Jackson,0.0,5.0
+60,2616439,2023-06-04,Texas,Sunnyvale,1.0,4.0
+61,2615978,2023-06-04,Illinois,Chicago,1.0,6.0
+62,2616034,2023-06-04,Florida,Pensacola,1.0,4.0
+63,2616015,2023-06-04,Missouri,Columbia,2.0,4.0
+64,2615941,2023-06-03,Oregon,Portland,0.0,4.0
+65,2615518,2023-06-02,Tennessee,Memphis,0.0,4.0
+66,2614735,2023-06-02,Texas,San Antonio,1.0,3.0
+67,2614353,2023-05-31,Ohio,Cleveland,1.0,3.0
+68,2613375,2023-05-31,Ohio,Cincinnati,0.0,4.0
+69,2613087,2023-05-31,North Carolina,Fayetteville,2.0,2.0
+70,2612967,2023-05-30,Pennsylvania,Lebanon,3.0,1.0
+71,2612882,2023-05-30,Illinois,Chicago,0.0,4.0
+72,2611512,2023-05-29,Florida,Hollywood,0.0,9.0
+73,2611781,2023-05-29,South Carolina,Hollywood,1.0,5.0
+74,2610925,2023-05-29,Ohio,Canal Winchester,0.0,7.0
+75,2611214,2023-05-29,Illinois,Peoria,0.0,4.0
+76,2611877,2023-05-29,New York,Syracuse,1.0,3.0
+77,2611231,2023-05-28,Pennsylvania,Chester,0.0,8.0
+78,2611011,2023-05-28,Pennsylvania,Philadelphia,1.0,3.0
+79,2610339,2023-05-28,Pennsylvania,Harrisburg,0.0,4.0
+80,2610271,2023-05-28,Mississippi,Hazlehurst,0.0,5.0
+81,2610231,2023-05-28,Tennessee,Memphis,0.0,4.0
+82,2610153,2023-05-27,Ohio,Cleveland,0.0,4.0
+83,2610514,2023-05-27,California,Moreno Valley,0.0,4.0
+84,2610746,2023-05-27,Arkansas,Marianna,1.0,4.0
+85,2609789,2023-05-27,New Mexico,Red River,3.0,4.0
+86,2609601,2023-05-27,Illinois,Chicago,1.0,3.0
+87,2609992,2023-05-26,Mississippi,Columbus,1.0,4.0
+88,2608422,2023-05-26,Wisconsin,Milwaukee,0.0,4.0
+89,2608802,2023-05-26,Maryland,Baltimore,0.0,5.0
+90,2608556,2023-05-26,Georgia,Brunswick,0.0,5.0
+91,2608830,2023-05-26,Virginia,Woodbridge,3.0,1.0
+92,2609761,2023-05-26,Arizona,Mesa,4.0,1.0
+93,2608239,2023-05-25,Maryland,Baltimore,0.0,4.0
+94,2606205,2023-05-23,Texas,Texarkana,4.0,0.0
+95,2606213,2023-05-23,Indiana,Columbus,0.0,4.0
+96,2605897,2023-05-22,Tennessee,Columbia,1.0,4.0
+97,2605263,2023-05-21,Mississippi,Clarksdale,0.0,13.0
+98,2604461,2023-05-21,Washington,Renton,0.0,5.0
+99,2603680,2023-05-21,Missouri,Kansas City,3.0,2.0
+100,2605709,2023-05-21,Mississippi,Jonestown,0.0,4.0
+101,2604279,2023-05-21,Louisiana,Thibodaux,0.0,7.0
+102,2603241,2023-05-20,California,Los Angeles,0.0,4.0
+103,2603870,2023-05-20,Georgia,Thomson,0.0,4.0
+104,2603598,2023-05-20,Louisiana,New Orleans,2.0,2.0
+105,2603689,2023-05-20,Kentucky,Louisville,0.0,4.0
+106,2601416,2023-05-18,Texas,San Antonio,1.0,3.0
+107,2600376,2023-05-16,Texas,San Antonio,0.0,4.0
+108,2598731,2023-05-15,New Mexico,Farmington,3.0,6.0
+109,2598168,2023-05-14,Alabama,Montgomery,1.0,3.0
+110,2597941,2023-05-14,Indiana,Anderson,0.0,6.0
+111,2598225,2023-05-14,Louisiana,Shreveport,0.0,4.0
+112,2598323,2023-05-14,Pennsylvania,Hazleton,0.0,4.0
+113,2597075,2023-05-13,Louisiana,Shreveport,0.0,4.0
+114,2597897,2023-05-13,California,Sacramento,0.0,4.0
+115,2597569,2023-05-13,Georgia,Augusta,2.0,4.0
+116,2597757,2023-05-13,Kentucky,Louisville,1.0,4.0
+117,2597561,2023-05-13,New Hampshire,Manchester,0.0,4.0
+118,2597740,2023-05-13,Arizona,Yuma,2.0,5.0
+119,2597218,2023-05-12,Maryland,Laurel,0.0,4.0
+120,2595672,2023-05-11,Indiana,Indianapolis,1.0,3.0
+121,2595658,2023-05-11,Pennsylvania,Philadelphia,1.0,3.0
+122,2595583,2023-05-11,Illinois,Chicago,2.0,3.0
+123,2594759,2023-05-10,Colorado,Denver,1.0,4.0
+124,2590876,2023-05-07,New Jersey,Newark,1.0,3.0
+125,2590669,2023-05-07,California,Adelanto,2.0,5.0
+126,2591640,2023-05-07,California,Thornton,1.0,3.0
+127,2591449,2023-05-07,Wisconsin,Fond Du Lac,1.0,3.0
+128,2590617,2023-05-07,Missouri,Saint Louis,2.0,2.0
+129,2590631,2023-05-07,Missouri,Columbia,1.0,3.0
+130,2591270,2023-05-07,California,Redwood City,0.0,5.0
+131,2590940,2023-05-07,Maryland,Frostburg,1.0,3.0
+132,2590046,2023-05-06,Texas,Allen,8.0,7.0
+133,2589882,2023-05-06,California,Chico,1.0,5.0
+134,2589762,2023-05-06,Ohio,Columbus,0.0,9.0
+135,2589765,2023-05-06,Ohio,Columbus,1.0,3.0
+136,2592771,2023-05-06,Mississippi,Robinsonville (Tunica Resorts),0.0,4.0
+137,2589804,2023-05-05,Mississippi,Natchez,2.0,3.0
+138,2589790,2023-05-05,Mississippi,Vicksburg,0.0,4.0
+139,2592407,2023-05-05,Louisiana,Bastrop,2.0,2.0
+140,2589981,2023-05-05,Missouri,Saint Louis,2.0,2.0
+141,2589699,2023-05-05,Mississippi,Ocean Springs,1.0,6.0
+142,2587918,2023-05-03,Illinois,Chicago,0.0,4.0
+143,2587386,2023-05-03,Georgia,Atlanta,1.0,4.0
+144,2587288,2023-05-02,Florida,Lake Wales,4.0,0.0
+145,2588047,2023-05-02,Louisiana,Bossier City,2.0,2.0
+146,2584808,2023-04-30,Louisiana,Lafayette,1.0,5.0
+147,2584772,2023-04-30,Kentucky,Paducah,0.0,4.0
+148,2586872,2023-04-30,Oklahoma,Henryetta,6.0,0.0
+149,2584779,2023-04-30,Oklahoma,Oklahoma City,1.0,3.0
+150,2585718,2023-04-30,California,Mojave,4.0,0.0
+151,2586747,2023-04-30,Nevada,Las Vegas (Enterprise),0.0,4.0
+152,2584743,2023-04-30,Georgia,Athens,1.0,3.0
+153,2584748,2023-04-30,Mississippi,Bay Saint Louis,2.0,4.0
+154,2584763,2023-04-30,Texas,Bryan,0.0,4.0
+155,2584930,2023-04-30,Massachusetts,Lawrence,1.0,5.0
+156,2585253,2023-04-30,Alabama,Birmingham,0.0,4.0
+157,2584240,2023-04-29,South Carolina,Columbia,0.0,9.0
+158,2584711,2023-04-29,Washington,Auburn,0.0,4.0
+159,2583589,2023-04-28,Pennsylvania,Philadelphia,3.0,1.0
+160,2584064,2023-04-28,Texas,Cleveland,5.0,0.0
+161,2579179,2023-04-23,Texas,Jasper,0.0,11.0
+162,2579262,2023-04-22,North Carolina,Winston Salem (Winston-salem),1.0,4.0
+163,2579441,2023-04-21,Georgia,Rockmart,0.0,4.0
+164,2578168,2023-04-21,District of Columbia,Washington,0.0,8.0
+165,2577693,2023-04-20,New Jersey,Trenton,1.0,3.0
+166,2577642,2023-04-20,Connecticut,Hartford,1.0,3.0
+167,2575621,2023-04-18,Maine,Bowdoin,4.0,3.0
+168,2576366,2023-04-18,North Carolina,Fayetteville,1.0,3.0
+169,2574455,2023-04-17,Maryland,Baltimore,0.0,4.0
+170,2574091,2023-04-16,Mississippi,Biloxi,0.0,5.0
+171,2574324,2023-04-16,Georgia,Keysville,0.0,4.0
+172,2572997,2023-04-15,California,Northridge,2.0,2.0
+173,2573436,2023-04-15,Alabama,Dadeville,4.0,32.0
+174,2572960,2023-04-15,Hawaii,Waianae,2.0,3.0
+175,2572582,2023-04-15,New Jersey,Paterson,0.0,6.0
+176,2573200,2023-04-15,New Jersey,Newark,1.0,3.0
+177,2573179,2023-04-15,Arizona,Phoenix,0.0,4.0
+178,2573266,2023-04-15,Kentucky,Louisville,2.0,4.0
+179,2572471,2023-04-14,Missouri,Kansas City,1.0,4.0
+180,2571130,2023-04-13,New York,Bronx,0.0,4.0
+181,2571648,2023-04-13,Michigan,Detroit,0.0,4.0
+182,2570622,2023-04-12,Ohio,Toledo,1.0,5.0
+183,2570985,2023-04-12,Indiana,Fort Wayne,1.0,3.0
+184,2570789,2023-04-12,North Carolina,Goldsboro,1.0,5.0
+185,2570823,2023-04-12,New Jersey,Trenton,1.0,3.0
+186,2569434,2023-04-11,District of Columbia,Washington,1.0,3.0
+187,2568184,2023-04-10,Kentucky,Louisville,5.0,5.0
+188,2568150,2023-04-09,Florida,Orlando,3.0,2.0
+189,2567299,2023-04-08,Texas,Houston,0.0,4.0
+190,2566705,2023-04-07,South Carolina,Isle Of Palms,0.0,5.0
+191,2566449,2023-04-07,Louisiana,New Orleans,0.0,4.0
+192,2566162,2023-04-06,Pennsylvania,Philadelphia,0.0,4.0
+193,2565404,2023-04-05,Virginia,Virginia Beach,0.0,4.0
+194,2564607,2023-04-04,Pennsylvania,Philadelphia,1.0,4.0
+195,2564328,2023-04-03,Tennessee,Jackson,0.0,4.0
+196,2564074,2023-04-03,Georgia,Atlanta,1.0,3.0
+197,2564105,2023-04-03,Colorado,Pueblo,1.0,3.0
+198,2562882,2023-04-02,District of Columbia,Washington,0.0,4.0
+199,2562631,2023-04-02,California,Moreno Valley,0.0,4.0
+200,2563072,2023-04-02,North Carolina,Fayetteville,1.0,4.0
+201,2562492,2023-04-01,Maryland,Baltimore,3.0,1.0
+202,2559838,2023-03-29,Tennessee,Memphis,2.0,4.0
+203,2555459,2023-03-27,Tennessee,Nashville,6.0,0.0
+204,2555326,2023-03-27,Wisconsin,Milwaukee,0.0,5.0
+205,2554779,2023-03-26,Pennsylvania,Philadelphia,2.0,2.0
+206,2555309,2023-03-26,Minnesota,Minneapolis,0.0,6.0
+207,2555301,2023-03-26,Arkansas,Little Rock,2.0,5.0
+208,2555123,2023-03-26,Louisiana,Minden,0.0,4.0
+209,2553878,2023-03-25,Illinois,Macomb,1.0,10.0
+210,2554912,2023-03-25,New York,Hempstead,0.0,4.0
+211,2553829,2023-03-25,Louisiana,Shreveport,1.0,5.0
+212,2555579,2023-03-25,North Carolina,Williamston,0.0,5.0
+213,2553843,2023-03-24,Louisiana,Shreveport,0.0,8.0
+214,2552552,2023-03-23,Maryland,Baltimore,1.0,5.0
+215,2551596,2023-03-21,New Jersey,Trenton,0.0,4.0
+216,2551678,2023-03-21,South Carolina,Sumter,4.0,0.0
+217,2550749,2023-03-20,Wisconsin,Milwaukee,1.0,5.0
+218,2548773,2023-03-18,Ohio,Columbus,2.0,4.0
+219,2549452,2023-03-18,Illinois,Chicago,0.0,4.0
+220,2549324,2023-03-18,Texas,Dallas,0.0,4.0
+221,2546495,2023-03-15,Oregon,Portland,2.0,2.0
+222,2545871,2023-03-14,Alabama,Birmingham,4.0,0.0
+223,2545631,2023-03-13,Texas,Lubbock,1.0,3.0
+224,2544566,2023-03-12,Texas,Laredo,0.0,14.0
+225,2544817,2023-03-12,Texas,Dallas,4.0,0.0
+226,2543748,2023-03-11,New York,Brooklyn,1.0,3.0
+227,2544920,2023-03-11,Washington,Vancouver,1.0,3.0
+228,2543201,2023-03-10,Florida,Hialeah,4.0,0.0
+229,2541580,2023-03-07,Tennessee,Memphis,0.0,4.0
+230,2541937,2023-03-07,Arkansas,Pine Bluff,2.0,2.0
+231,2539814,2023-03-06,California,Sacramento,3.0,1.0
+232,2540078,2023-03-06,Tennessee,Memphis,3.0,1.0
+233,2539582,2023-03-05,Illinois,Bolingbrook,3.0,1.0
+234,2539165,2023-03-05,Maryland,Capitol Heights,0.0,4.0
+235,2539515,2023-03-05,Florida,Lake City,0.0,4.0
+236,2539065,2023-03-05,Louisiana,Shreveport,0.0,4.0
+237,2539082,2023-03-04,California,Los Angeles,0.0,4.0
+238,2539196,2023-03-04,Georgia,Douglasville,2.0,7.0
+239,2539531,2023-03-04,Missouri,Cape Girardeau,0.0,5.0
+240,2538963,2023-03-04,California,San Pedro,0.0,4.0
+241,2536665,2023-03-01,Florida,Cocoa,4.0,0.0
+242,2534810,2023-02-27,Tennessee,Memphis,2.0,2.0
+243,2534995,2023-02-27,Ohio,New Richmond,3.0,1.0
+244,2534097,2023-02-26,Michigan,Detroit,2.0,2.0
+245,2534613,2023-02-26,Florida,Pompano Beach,2.0,2.0
+246,2534174,2023-02-26,Tennessee,Memphis,1.0,4.0
+247,2533625,2023-02-25,Minnesota,Saint Paul,2.0,3.0
+248,2534393,2023-02-25,Illinois,Machesney Park,0.0,4.0
+249,2533920,2023-02-24,Louisiana,Abbeville,0.0,4.0
+250,2532658,2023-02-23,Pennsylvania,Philadelphia,0.0,7.0
+251,2531512,2023-02-22,Florida,Orlando,3.0,2.0
+252,2531078,2023-02-21,Colorado,Colorado Springs,0.0,5.0
+253,2529381,2023-02-19,Illinois,Chicago,3.0,3.0
+254,2528691,2023-02-19,Indiana,Indianapolis,0.0,4.0
+255,2528713,2023-02-19,Tennessee,Memphis,1.0,10.0
+256,2529243,2023-02-19,Louisiana,New Orleans,1.0,4.0
+257,2528774,2023-02-18,Missouri,Saint Louis,0.0,4.0
+258,2528505,2023-02-18,Georgia,Columbus,3.0,1.0
+259,2528239,2023-02-18,South Carolina,Loris,0.0,4.0
+260,2527517,2023-02-17,Mississippi,Coldwater,6.0,0.0
+261,2528066,2023-02-17,Georgia,Columbus,0.0,9.0
+262,2527234,2023-02-15,Maryland,Baltimore,0.0,4.0
+263,2526362,2023-02-15,Texas,El Paso,1.0,3.0
+264,2525382,2023-02-14,Pennsylvania,Pittsburgh,0.0,4.0
+265,2525634,2023-02-14,New York,Buffalo,0.0,5.0
+266,2525591,2023-02-13,New Jersey,Paterson,0.0,4.0
+267,2524577,2023-02-13,Michigan,East Lansing,3.0,5.0
+268,2523928,2023-02-12,Mississippi,Louisville,1.0,5.0
+269,2522649,2023-02-10,New York,Brooklyn,0.0,4.0
+270,2522557,2023-02-10,New York,Bronx,2.0,2.0
+271,2521084,2023-02-08,North Carolina,Laurinburg,0.0,4.0
+272,2521112,2023-02-08,Louisiana,New Orleans,2.0,4.0
+273,2521423,2023-02-08,North Carolina,Elizabeth City,0.0,4.0
+274,2518860,2023-02-06,Texas,Corpus Christi,1.0,3.0
+275,2518344,2023-02-05,Arizona,Tucson,1.0,3.0
+276,2518456,2023-02-05,Arkansas,Newport,1.0,4.0
+277,2518292,2023-02-05,California,Stockton,1.0,3.0
+278,2518281,2023-02-05,Colorado,Peyton,2.0,3.0
+279,2517797,2023-02-04,Texas,Huntsville,2.0,2.0
+280,2516494,2023-02-01,California,Los Angeles,0.0,5.0
+281,2516309,2023-02-01,Texas,Texas City,0.0,4.0
+282,2514902,2023-01-31,North Carolina,Durham,2.0,2.0
+283,2514564,2023-01-30,Florida,Lakeland,0.0,11.0
+284,2514220,2023-01-30,Texas,Dallas,1.0,3.0
+285,2605383,2023-01-29,Tennessee,Luttrell,4.0,0.0
+286,2513512,2023-01-29,Ohio,Columbus,1.0,3.0
+287,2513575,2023-01-29,North Carolina,Greensboro,1.0,6.0
+288,2513517,2023-01-28,South Carolina,Andrews,2.0,2.0
+289,2513496,2023-01-28,Texas,Austin,2.0,3.0
+290,2513044,2023-01-28,California,Beverly Hills,3.0,2.0
+291,2513527,2023-01-28,Pennsylvania,Philadelphia,0.0,4.0
+292,2512985,2023-01-27,California,San Diego,1.0,3.0
+293,2512343,2023-01-26,New Jersey,Newark,1.0,4.0
+294,2512617,2023-01-26,Pennsylvania,Lancaster,0.0,4.0
+295,2510365,2023-01-24,North Carolina,Red Springs,3.0,1.0
+296,2509362,2023-01-23,Illinois,Chicago,2.0,3.0
+297,2510063,2023-01-23,California,Oakland,1.0,4.0
+298,2509663,2023-01-23,California,Half Moon Bay,7.0,1.0
+299,2508683,2023-01-22,Mississippi,Robinsonville (Tunica Resorts),0.0,4.0
+300,2508522,2023-01-22,Louisiana,Shreveport,1.0,7.0
+301,2508370,2023-01-22,Louisiana,Baton Rouge,0.0,12.0
+302,2507836,2023-01-21,California,Monterey Park,11.0,9.0
+303,2507423,2023-01-21,Arizona,Yuma,0.0,5.0
+304,2504645,2023-01-17,Texas,Houston,0.0,4.0
+305,2503345,2023-01-16,California,Goshen,6.0,0.0
+306,2503245,2023-01-16,Florida,Sanford,1.0,5.0
+307,2503649,2023-01-16,Florida,Fort Pierce,1.0,7.0
+308,2503058,2023-01-15,Illinois,Rockford,3.0,1.0
+309,2502680,2023-01-15,Texas,Houston,1.0,4.0
+310,2503178,2023-01-15,Florida,Homestead,1.0,3.0
+311,2503197,2023-01-15,Arizona,Phoenix,0.0,4.0
+312,2502550,2023-01-14,Missouri,Saint Louis (Moline Acres),0.0,4.0
+313,2501869,2023-01-13,Ohio,Cleveland,4.0,1.0
+314,2499119,2023-01-09,Minnesota,Minneapolis,0.0,4.0
+315,2499381,2023-01-09,Pennsylvania,Philadelphia,3.0,1.0
+316,2498792,2023-01-09,Colorado,Denver,0.0,4.0
+317,2498013,2023-01-08,Minnesota,Minneapolis,0.0,4.0
+318,2499425,2023-01-08,Georgia,Albany,0.0,4.0
+319,2497502,2023-01-07,North Carolina,High Point,4.0,0.0
+320,2497948,2023-01-07,Alabama,Huntsville,2.0,9.0
+321,2496714,2023-01-06,Texas,Dallas,3.0,2.0
+322,2497164,2023-01-06,California,San Francisco,1.0,3.0
+323,2496431,2023-01-05,Louisiana,New Orleans,2.0,3.0
+324,2496391,2023-01-05,Florida,Miami Gardens,0.0,10.0
+325,2495648,2023-01-04,Utah,Cedar City (Enoch),7.0,0.0
+326,2494934,2023-01-04,Maryland,Baltimore,1.0,4.0
+327,2495059,2023-01-04,Virginia,Dumfries,1.0,4.0
+328,2494254,2023-01-03,District of Columbia,Washington,1.0,3.0
+329,2494425,2023-01-03,Louisiana,New Orleans,0.0,5.0
+330,2492448,2023-01-01,Florida,Ocala,2.0,4.0
+331,2492601,2023-01-01,Illinois,Chicago,1.0,3.0
+332,2497601,2023-01-01,Florida,Miami Gardens,0.0,9.0
+333,2492611,2023-01-01,North Carolina,Durham,0.0,5.0
+334,2493102,2023-01-01,Pennsylvania,Allentown,0.0,4.0
+335,2492314,2023-01-01,Ohio,Columbus,1.0,4.0
+336,2492253,2022-12-31,Alabama,Mobile,1.0,7.0
+337,2491656,2022-12-31,Arizona,Phoenix,0.0,9.0
+338,2491054,2022-12-30,Tennessee,Memphis,1.0,3.0
+339,2490925,2022-12-30,Texas,Humble,2.0,3.0
+340,2489614,2022-12-28,New York,Bronx,1.0,3.0
+341,2490150,2022-12-28,Texas,Dallas,0.0,6.0
+342,2488952,2022-12-27,District of Columbia,Washington,0.0,4.0
+343,2489345,2022-12-27,Ohio,Columbus,0.0,5.0
+344,2489124,2022-12-27,California,Eureka,2.0,2.0
+345,2488209,2022-12-26,Louisiana,New Orleans,2.0,4.0
+346,2487989,2022-12-24,Mississippi,Columbus,1.0,3.0
+347,2487517,2022-12-23,Kansas,Wichita,2.0,2.0
+348,2485011,2022-12-19,Florida,Lake City,0.0,5.0
+349,2484083,2022-12-18,California,Santa Ana,1.0,3.0
+350,2483594,2022-12-18,Oklahoma,Oklahoma City,0.0,4.0
+351,2483489,2022-12-17,Georgia,Atlanta,2.0,3.0
+352,2483188,2022-12-16,Georgia,Valdosta,2.0,2.0
+353,2482288,2022-12-16,Illinois,Chicago,2.0,2.0
+354,2483108,2022-12-16,Texas,Dallas,0.0,5.0
+355,2482711,2022-12-16,Tennessee,Memphis,0.0,5.0
+356,2480430,2022-12-13,New York,Rochester,1.0,4.0
+357,2479678,2022-12-12,New York,Bronx,0.0,4.0
+358,2478664,2022-12-11,Illinois,Chicago,3.0,1.0
+359,2478061,2022-12-09,Arizona,Phoenix,1.0,3.0
+360,2477622,2022-12-08,Michigan,Detroit,0.0,4.0
+361,2477404,2022-12-08,Louisiana,New Orleans,0.0,4.0
+362,2475554,2022-12-06,New York,Bronx,0.0,4.0
+363,2475546,2022-12-06,Georgia,Macon,3.0,1.0
+364,2474143,2022-12-04,Illinois,Zion,0.0,5.0
+365,2472924,2022-12-01,Texas,San Antonio,0.0,4.0
+366,2471298,2022-11-30,Louisiana,Lake Charles,0.0,8.0
+367,2469354,2022-11-27,Florida,Tallahassee,1.0,4.0
+368,2468894,2022-11-27,Louisiana,New Orleans,0.0,5.0
+369,2468642,2022-11-26,Alabama,Mobile,0.0,4.0
+370,2468745,2022-11-26,Georgia,Atlanta,2.0,4.0
+371,2468325,2022-11-26,Illinois,Chicago,2.0,2.0
+372,2468162,2022-11-25,Georgia,Atlanta,0.0,0.0
+373,2467661,2022-11-24,Texas,Houston,2.0,2.0
+374,2467743,2022-11-24,California,Costa Mesa,1.0,4.0
+375,2466835,2022-11-23,Maryland,Temple Hills,0.0,4.0
+376,2466431,2022-11-23,Pennsylvania,Philadelphia,0.0,4.0
+377,2465761,2022-11-22,Virginia,Chesapeake,6.0,6.0
+378,2465213,2022-11-22,Florida,West Palm Beach,2.0,2.0
+379,2464943,2022-11-20,Oklahoma,Hennessey,4.0,1.0
+380,2464272,2022-11-20,Texas,Dallas,0.0,4.0
+381,2463465,2022-11-19,Colorado,Colorado Springs,5.0,19.0
+382,2464352,2022-11-19,Illinois,Washington Park,1.0,3.0
+383,2463882,2022-11-19,Mississippi,Philadelphia,1.0,6.0
+384,2462457,2022-11-18,Virginia,Richmond,4.0,0.0
+385,2458727,2022-11-13,Pennsylvania,Philadelphia,0.0,4.0
+386,2458676,2022-11-13,North Carolina,Enfield,1.0,5.0
+387,2458863,2022-11-13,Nebraska,Omaha,1.0,6.0
+388,2459150,2022-11-13,Virginia,Charlottesville,3.0,2.0
+389,2458933,2022-11-12,California,Sacramento,0.0,4.0
+390,2459005,2022-11-12,Texas,Fort Worth,0.0,4.0
+391,2459259,2022-11-12,California,Indio,1.0,3.0
+392,2458467,2022-11-12,New Jersey,Paterson,0.0,4.0
+393,2459156,2022-11-12,Tennessee,Memphis,0.0,4.0
+394,2458086,2022-11-11,New Jersey,Jersey City,0.0,4.0
+395,2455710,2022-11-07,Texas,Mcallen (McAllen),0.0,4.0
+396,2453865,2022-11-06,Illinois,Chicago,1.0,3.0
+397,2453892,2022-11-06,Illinois,Chicago,0.0,5.0
+398,2454565,2022-11-06,California,Tulare,0.0,5.0
+399,2455484,2022-11-06,Florida,Gainesville,0.0,4.0
+400,2454281,2022-11-05,New York,Buffalo,0.0,4.0
+401,2453744,2022-11-05,Pennsylvania,Philadelphia,0.0,9.0
+402,2452673,2022-11-04,Florida,Orlando,4.0,1.0
+403,2452798,2022-11-04,Maryland,La Plata,4.0,0.0
+404,2452501,2022-11-03,Illinois,Chicago,0.0,4.0
+405,2451028,2022-11-02,Texas,Houston,0.0,4.0
+406,2451550,2022-11-02,Mississippi,Hattiesburg,2.0,3.0
+407,2450360,2022-11-01,Colorado,Denver,1.0,5.0
+408,2450917,2022-11-01,Maryland,Baltimore,0.0,4.0
+409,2449986,2022-10-31,Kansas,Kansas City,1.0,6.0
+410,2450557,2022-10-31,Illinois,East Saint Louis,2.0,3.0
+411,2449653,2022-10-31,Illinois,Chicago,1.0,13.0
+412,2448898,2022-10-30,Tennessee,Memphis,1.0,3.0
+413,2448366,2022-10-30,Colorado,Aurora,4.0,0.0
+414,2448287,2022-10-30,Pennsylvania,Philadelphia,0.0,6.0
+415,2448361,2022-10-30,California,Covina,2.0,2.0
+416,2448372,2022-10-30,South Carolina,Charleston,0.0,4.0
+417,2448015,2022-10-29,Florida,Orlando,0.0,6.0
+418,2448330,2022-10-29,Florida,Tallahassee,1.0,8.0
+419,2447980,2022-10-28,Ohio,Toledo,2.0,2.0
+420,2447379,2022-10-28,Pennsylvania,Pittsburgh,0.0,5.0
+421,2447217,2022-10-27,Oklahoma,Broken Arrow,7.0,0.0
+422,2445686,2022-10-25,Ohio,Hamilton,2.0,2.0
+423,2445939,2022-10-25,North Carolina,Greensboro,2.0,4.0
+424,2443879,2022-10-24,Missouri,Saint Louis,2.0,4.0
+425,2443849,2022-10-24,Illinois,Chicago,1.0,3.0
+426,2443627,2022-10-23,Texas,Brownsville,0.0,5.0
+427,2443194,2022-10-23,Illinois,Chicago,3.0,2.0
+428,2443276,2022-10-23,Wisconsin,Milwaukee,0.0,4.0
+429,2442695,2022-10-22,Wisconsin,Milwaukee,0.0,6.0
+430,2443257,2022-10-22,North Carolina,Oxford,0.0,6.0
+431,2443287,2022-10-22,Georgia,Cordele,0.0,4.0
+432,2443231,2022-10-22,Arizona,Phoenix,1.0,7.0
+433,2450590,2022-10-21,Mississippi,Cleveland,1.0,3.0
+434,2442632,2022-10-21,Louisiana,New Orleans,1.0,3.0
+435,2444683,2022-10-21,Wisconsin,Hartland,4.0,0.0
+436,2442008,2022-10-21,Louisiana,Baton Rouge,0.0,11.0
+437,2441540,2022-10-20,Ohio,Cleveland,0.0,5.0
+438,2439423,2022-10-17,Virginia,Woodbridge,4.0,0.0
+439,2438904,2022-10-16,Texas,El Paso,1.0,3.0
+440,2438505,2022-10-16,Georgia,Atlanta,0.0,4.0
+441,2439294,2022-10-16,California,Lancaster,0.0,4.0
+442,2438461,2022-10-16,Virginia,Harrisonburg,0.0,8.0
+443,2438121,2022-10-15,Colorado,Denver,1.0,7.0
+444,2438154,2022-10-15,Massachusetts,Worcester,0.0,6.0
+445,2438723,2022-10-15,Mississippi,Itta Bena,2.0,7.0
+446,2438494,2022-10-15,New York,Freeport,0.0,4.0
+447,2438482,2022-10-15,Pennsylvania,Pittsburgh,3.0,1.0
+448,2437284,2022-10-14,Pennsylvania,Philadelphia,0.0,4.0
+449,2436826,2022-10-13,North Carolina,Raleigh,5.0,2.0
+450,2437177,2022-10-13,North Carolina,New Bern,0.0,4.0
+451,2437630,2022-10-13,Alabama,Lanett,0.0,6.0
+452,2434847,2022-10-10,California,Delano,1.0,3.0
+453,2434247,2022-10-09,South Carolina,Inman,5.0,0.0
+454,2434128,2022-10-09,Florida,Miami,1.0,3.0
+455,2439284,2022-10-09,Oklahoma,Henryetta,4.0,0.0
+456,2434326,2022-10-09,Arkansas,Jacksonville,1.0,3.0
+457,2433539,2022-10-09,Florida,Tampa,1.0,6.0
+458,2434062,2022-10-09,Texas,Beaumont,0.0,5.0
+459,2440211,2022-10-08,Alabama,Hurtsboro,2.0,2.0
+460,2434151,2022-10-08,Missouri,Saint Joseph,0.0,4.0
+461,2433352,2022-10-08,California,Berkeley,1.0,3.0
+462,2432772,2022-10-07,Oregon,Portland,0.0,4.0
+463,2432893,2022-10-07,Texas,Fort Worth,4.0,0.0
+464,2431842,2022-10-06,Kentucky,Louisville,0.0,4.0
+465,2431594,2022-10-06,District of Columbia,Washington,1.0,3.0
+466,2431069,2022-10-05,Texas,Baytown,4.0,2.0
+467,2428950,2022-10-02,Tennessee,Nashville,0.0,4.0
+468,2428715,2022-10-02,Washington,Seattle,0.0,4.0
+469,2427999,2022-10-01,Pennsylvania,Philadelphia,0.0,4.0
+470,2428678,2022-10-01,California,Oakland,2.0,2.0
+471,2427775,2022-09-30,Oklahoma,Tulsa,1.0,3.0
+472,2428456,2022-09-30,Mississippi,Marks,0.0,5.0
+473,2426627,2022-09-29,Texas,Mc Gregor,5.0,0.0
+474,2426042,2022-09-28,California,Oakland,1.0,5.0
+475,2425825,2022-09-28,Ohio,Columbus,0.0,5.0
+476,2425799,2022-09-28,Maryland,Baltimore,0.0,4.0
+477,2426382,2022-09-28,Alabama,Uniontown,0.0,4.0
+478,2425393,2022-09-27,New York,Corona (Queens),0.0,4.0
+479,2426137,2022-09-27,New York,New York (Manhattan),0.0,4.0
+480,2426061,2022-09-27,North Carolina,Goldsboro,0.0,4.0
+481,2425199,2022-09-27,Pennsylvania,Philadelphia,1.0,4.0
+482,2425839,2022-09-27,Florida,Jacksonville,0.0,4.0
+483,2423747,2022-09-25,Pennsylvania,Harrisburg,0.0,4.0
+484,2423338,2022-09-25,Indiana,Hammond,1.0,3.0
+485,2423538,2022-09-24,Ohio,Columbus,1.0,3.0
+486,2423331,2022-09-24,Georgia,Louisville,1.0,3.0
+487,2424602,2022-09-23,California,Castroville,0.0,4.0
+488,2421430,2022-09-22,Illinois,Chicago,0.0,4.0
+489,2420406,2022-09-20,New York,Mount Vernon,0.0,4.0
+490,2420637,2022-09-20,Michigan,Niles,2.0,3.0
+491,2419473,2022-09-19,Georgia,Swainsboro,1.0,3.0
+492,2417634,2022-09-18,New York,Corona (Queens),1.0,3.0
+493,2417641,2022-09-18,Wisconsin,Kenosha,2.0,2.0
+494,2417863,2022-09-18,Nevada,Las Vegas,0.0,5.0
+495,2417696,2022-09-18,Michigan,Allendale,0.0,4.0
+496,2417293,2022-09-17,Missouri,Blue Springs,0.0,5.0
+497,2416762,2022-09-17,Minnesota,Minneapolis,0.0,5.0
+498,2416625,2022-09-16,Wisconsin,Milwaukee,0.0,4.0
+499,2414276,2022-09-14,Wisconsin,Milwaukee,0.0,4.0
+500,2415614,2022-09-14,Florida,Miami (North Miami),0.0,5.0
+501,2414858,2022-09-14,California,Los Angeles,0.0,4.0
+502,2414080,2022-09-13,Illinois,Chicago,2.0,7.0
+503,2415479,2022-09-13,California,Oakland,0.0,4.0
+504,2413596,2022-09-12,Oklahoma,Oklahoma City,0.0,4.0
+505,2412198,2022-09-11,Michigan,Detroit,0.0,4.0
+506,2412164,2022-09-11,New Mexico,Santa Fe,0.0,5.0
+507,2412289,2022-09-11,Michigan,Grand Rapids,0.0,4.0
+508,2412487,2022-09-11,North Carolina,Durham,1.0,3.0
+509,2411801,2022-09-10,Indiana,Plainfield,2.0,2.0
+510,2411871,2022-09-10,Kentucky,Lexington,0.0,4.0
+511,2411007,2022-09-09,New York,Bronx,0.0,4.0
+512,2410446,2022-09-09,Maryland,Elk Mills,4.0,0.0
+513,2411901,2022-09-09,Minnesota,Minneapolis,1.0,3.0
+514,2410704,2022-09-08,Minnesota,Minneapolis,0.0,4.0
+515,2410269,2022-09-08,California,Los Angeles,0.0,4.0
+516,2408990,2022-09-07,Tennessee,Memphis,3.0,3.0
+517,2406998,2022-09-05,Georgia,Hartwell,2.0,2.0
+518,2407734,2022-09-05,Missouri,Kansas City,2.0,2.0
+519,2407739,2022-09-05,Missouri,Saint Louis,1.0,3.0
+520,2406862,2022-09-05,Ohio,Cleveland,1.0,10.0
+521,2406852,2022-09-05,Pennsylvania,Philadelphia,2.0,4.0
+522,2406123,2022-09-04,South Carolina,Charleston,0.0,7.0
+523,2406597,2022-09-04,Minnesota,Saint Paul,3.0,2.0
+524,2406108,2022-09-04,Virginia,Norfolk,2.0,5.0
+525,2406656,2022-09-04,Florida,Fort Lauderdale (Lauderdale Lakes),0.0,4.0
+526,2406651,2022-09-04,Illinois,Chicago,2.0,2.0
+527,2405689,2022-09-03,California,Chico,0.0,5.0
+528,2405866,2022-09-03,Illinois,Yorkville,0.0,4.0
+529,2406042,2022-09-03,Alabama,Birmingham,2.0,2.0
+530,2405859,2022-09-03,Maryland,Capitol Heights,1.0,3.0
+531,2405239,2022-09-02,California,Fresno,2.0,2.0
+532,2405020,2022-09-02,Minnesota,Minneapolis,0.0,4.0
+533,2404930,2022-09-02,New York,Brooklyn,0.0,4.0
+534,2400998,2022-08-29,Missouri,Saint Louis (Jennings),0.0,4.0
+535,2399774,2022-08-28,Wisconsin,Clinton,0.0,4.0
+536,2400434,2022-08-28,Oregon,Bend,2.0,2.0
+537,2399820,2022-08-28,New York,Albany,0.0,6.0
+538,2399670,2022-08-28,Colorado,Denver,1.0,3.0
+539,2399839,2022-08-28,California,Los Angeles,0.0,6.0
+540,2400026,2022-08-28,Michigan,Detroit,3.0,1.0
+541,2400492,2022-08-28,Arizona,Phoenix,2.0,5.0
+542,2399755,2022-08-28,Texas,Houston,3.0,2.0
+543,2399576,2022-08-27,New York,Brooklyn,1.0,4.0
+544,2399000,2022-08-27,Washington,Spokane,1.0,3.0
+545,2398877,2022-08-27,Kentucky,Lexington,0.0,7.0
+546,2398004,2022-08-25,Kentucky,Henderson,2.0,2.0
+547,2397504,2022-08-25,Washington,Spokane,0.0,4.0
+548,2398118,2022-08-25,Alabama,Birmingham,1.0,3.0
+549,2396803,2022-08-24,Illinois,Chicago,0.0,4.0
+550,2396536,2022-08-24,District of Columbia,Washington,2.0,3.0
+551,2397033,2022-08-24,Wisconsin,Milwaukee,2.0,2.0
+552,2396567,2022-08-24,Maryland,Baltimore,1.0,6.0
+553,2396124,2022-08-23,Pennsylvania,Philadelphia,2.0,2.0
+554,2393758,2022-08-21,Tennessee,Memphis,1.0,3.0
+555,2393474,2022-08-20,Delaware,Wilmington,0.0,4.0
+556,2393051,2022-08-20,North Carolina,Asheville,0.0,4.0
+557,2392698,2022-08-20,Illinois,Chicago,0.0,5.0
+558,2392494,2022-08-19,Illinois,Chicago,1.0,4.0
+559,2391779,2022-08-19,Illinois,Chicago,0.0,4.0
+560,2391353,2022-08-18,Virginia,Norfolk,3.0,2.0
+561,2390519,2022-08-17,Illinois,Chicago,0.0,4.0
+562,2391042,2022-08-17,Pennsylvania,Philadelphia,0.0,4.0
+563,2398608,2022-08-16,Michigan,Paw Paw,0.0,4.0
+564,2389775,2022-08-16,Pennsylvania,Philadelphia,0.0,5.0
+565,2388884,2022-08-16,Tennessee,Memphis,0.0,6.0
+566,2386954,2022-08-14,Arizona,Phoenix,1.0,4.0
+567,2386871,2022-08-14,Illinois,Chicago,1.0,4.0
+568,2386878,2022-08-14,Maryland,Baltimore,1.0,3.0
+569,2388144,2022-08-13,Ohio,Cleveland,1.0,4.0
+570,2386032,2022-08-13,North Carolina,Raleigh,0.0,6.0
+571,2387010,2022-08-13,Georgia,Atlanta (College Park),1.0,4.0
+572,2386151,2022-08-13,Washington,Renton,0.0,4.0
+573,2385789,2022-08-12,Pennsylvania,Philadelphia,1.0,3.0
+574,2385846,2022-08-12,Missouri,Saint Louis,1.0,3.0
+575,2383958,2022-08-10,Mississippi,Winona,1.0,3.0
+576,2382827,2022-08-08,Virginia,Richmond,0.0,4.0
+577,2380747,2022-08-07,Ohio,Cincinnati,0.0,8.0
+578,2381371,2022-08-07,Pennsylvania,Pittsburgh,1.0,3.0
+579,2381321,2022-08-07,Georgia,Atlanta,2.0,4.0
+580,2381000,2022-08-07,Alabama,Birmingham,1.0,4.0
+581,2380361,2022-08-06,Michigan,Detroit,1.0,4.0
+582,2380869,2022-08-06,Michigan,Detroit,1.0,6.0
+583,2380783,2022-08-06,Pennsylvania,Duquesne,0.0,4.0
+584,2379316,2022-08-05,Virginia,Norfolk,0.0,4.0
+585,2379499,2022-08-05,Ohio,Dayton,4.0,0.0
+586,2380017,2022-08-05,Wisconsin,Milwaukee,0.0,4.0
+587,2378851,2022-08-04,Tennessee,Nashville,1.0,3.0
+588,2379020,2022-08-04,Nebraska,Laurel,4.0,0.0
+589,2377855,2022-08-03,California,Panorama City,1.0,4.0
+590,2377529,2022-08-03,Florida,Miami,0.0,5.0
+591,2376380,2022-08-02,New York,Albany,0.0,5.0
+592,2377338,2022-08-02,Florida,Orlando,4.0,0.0
+593,2376028,2022-08-01,Ohio,Columbus,2.0,3.0
+594,2375725,2022-08-01,California,Paramount,1.0,3.0
+595,2375886,2022-08-01,District of Columbia,Washington,1.0,5.0
+596,2374750,2022-07-31,Indiana,South Bend,0.0,4.0
+597,2374430,2022-07-31,Florida,Orlando,0.0,7.0
+598,2374401,2022-07-31,Indiana,Indianapolis,0.0,4.0
+599,2374337,2022-07-31,Michigan,Detroit,2.0,6.0
+600,2374990,2022-07-31,Illinois,Decatur,1.0,3.0
+601,2375097,2022-07-31,Connecticut,Hartford,0.0,4.0
+602,2373924,2022-07-30,Louisiana,Monroe,1.0,3.0
+603,2373692,2022-07-30,Illinois,Wheeling,0.0,5.0
+604,2373859,2022-07-30,Georgia,Girard,1.0,4.0
+605,2373050,2022-07-29,Maryland,Baltimore,2.0,2.0
+606,2373646,2022-07-29,New Mexico,Albuquerque,1.0,4.0
+607,2373607,2022-07-29,Ohio,Cleveland,1.0,3.0
+608,2373111,2022-07-29,Florida,Miami,0.0,4.0
+609,2370760,2022-07-27,Georgia,Macon,2.0,2.0
+610,2371416,2022-07-27,Louisiana,Hahnville,1.0,3.0
+611,2369720,2022-07-25,Louisiana,New Orleans,0.0,4.0
+612,2368110,2022-07-24,South Carolina,Bennettsville,1.0,3.0
+613,2368575,2022-07-24,California,San Pedro,2.0,6.0
+614,2368029,2022-07-24,Georgia,Atlanta,0.0,8.0
+615,2368308,2022-07-24,Texas,Fort Worth,1.0,3.0
+616,2367984,2022-07-23,Virginia,Richmond,0.0,5.0
+617,2367664,2022-07-23,Texas,El Paso,0.0,4.0
+618,2367289,2022-07-23,North Carolina,Pinebluff,1.0,4.0
+619,2367193,2022-07-23,Washington,Renton,1.0,6.0
+620,2368018,2022-07-23,Illinois,Chicago,0.0,4.0
+621,2367176,2022-07-23,Illinois,Chicago,0.0,4.0
+622,2367157,2022-07-23,Illinois,Rockford,2.0,2.0
+623,2367972,2022-07-23,Michigan,Kalamazoo,0.0,9.0
+624,2366273,2022-07-21,California,Los Angeles,0.0,5.0
+625,2363589,2022-07-19,Nebraska,Lincoln,0.0,4.0
+626,2362912,2022-07-18,Georgia,Atlanta,0.0,5.0
+627,2362595,2022-07-17,Washington,Mount Vernon,0.0,5.0
+628,2362141,2022-07-17,New York,Brooklyn,0.0,4.0
+629,2361849,2022-07-17,Michigan,Detroit,0.0,4.0
+630,2362011,2022-07-17,Indiana,Greenwood,3.0,2.0
+631,2362215,2022-07-17,Indiana,Beech Grove,1.0,3.0
+632,2361609,2022-07-17,Michigan,Grand Rapids,0.0,4.0
+633,2361654,2022-07-17,Georgia,Milledgeville,0.0,5.0
+634,2362282,2022-07-17,New Jersey,Newark,0.0,4.0
+635,2362562,2022-07-17,Washington,Vancouver,2.0,2.0
+636,2361532,2022-07-16,District of Columbia,Washington,1.0,3.0
+637,2360953,2022-07-16,Ohio,Columbus,2.0,2.0
+638,2361097,2022-07-16,South Carolina,North Charleston,0.0,4.0
+639,2361614,2022-07-16,Texas,Houston,4.0,0.0
+640,2362355,2022-07-16,Louisiana,Monroe,0.0,5.0
+641,2361490,2022-07-16,Pennsylvania,Philadelphia,0.0,4.0
+642,2359843,2022-07-14,Illinois,Chicago,0.0,4.0
+643,2359229,2022-07-14,Pennsylvania,Philadelphia,0.0,4.0
+644,2358938,2022-07-13,Pennsylvania,Philadelphia,0.0,4.0
+645,2358861,2022-07-13,Indiana,Indianapolis,1.0,3.0
+646,2358856,2022-07-13,Minnesota,Minneapolis,0.0,4.0
+647,2358329,2022-07-12,Massachusetts,Boston,0.0,4.0
+648,2358053,2022-07-11,Mississippi,Jackson,0.0,4.0
+649,2356705,2022-07-10,Illinois,Crest Hill,1.0,4.0
+650,2356327,2022-07-10,Missouri,Kansas City,1.0,5.0
+651,2355580,2022-07-10,California,Downey,3.0,2.0
+652,2355398,2022-07-10,New York,Brooklyn,0.0,5.0
+653,2356813,2022-07-10,Texas,Alvin,1.0,3.0
+654,2355438,2022-07-10,Illinois,Chicago,0.0,4.0
+655,2355962,2022-07-09,Alabama,Jacksons Gap,0.0,4.0
+656,2354111,2022-07-08,North Carolina,Greensboro,0.0,4.0
+657,2354825,2022-07-08,Michigan,Detroit,0.0,4.0
+658,2353847,2022-07-07,Illinois,Chicago,0.0,4.0
+659,2352780,2022-07-06,Florida,Tampa,0.0,4.0
+660,2352444,2022-07-06,Illinois,Chicago,0.0,4.0
+661,2352349,2022-07-06,Minnesota,Saint Cloud,0.0,4.0
+662,2352342,2022-07-05,Ohio,Steubenville,0.0,4.0
+663,2349853,2022-07-05,Indiana,Gary,3.0,7.0
+664,2349723,2022-07-05,New York,Rochester,1.0,3.0
+665,2348384,2022-07-04,Illinois,Highland Park,7.0,30.0
+666,2348163,2022-07-04,Massachusetts,Boston,0.0,4.0
+667,2350033,2022-07-04,Minnesota,Minneapolis,0.0,7.0
+668,2349746,2022-07-04,Wisconsin,Kenosha,1.0,4.0
+669,2348230,2022-07-04,California,Sacramento,1.0,4.0
+670,2348750,2022-07-04,Missouri,Kansas City,0.0,4.0
+671,2349545,2022-07-04,Colorado,Denver,1.0,3.0
+672,2349758,2022-07-04,New York,Corona (Queens),0.0,4.0
+673,2348204,2022-07-04,Illinois,Chicago,0.0,5.0
+674,2348167,2022-07-04,Virginia,Richmond,0.0,6.0
+675,2348191,2022-07-03,Virginia,Manassas,0.0,4.0
+676,2347373,2022-07-03,South Carolina,Mullins,0.0,4.0
+677,2348303,2022-07-03,Arizona,Surprise,2.0,4.0
+678,2348263,2022-07-03,Washington,Tacoma,0.0,4.0
+679,2347060,2022-07-02,Texas,Haltom City,2.0,4.0
+680,2347228,2022-07-02,New York,Corona (Queens),1.0,3.0
+681,2347297,2022-07-02,North Carolina,Clinton,0.0,6.0
+682,2346422,2022-07-01,Illinois,Chicago,0.0,4.0
+683,2346406,2022-07-01,Mississippi,Greenwood,1.0,7.0
+684,2345410,2022-07-01,Illinois,Chicago,2.0,3.0
+685,2345144,2022-06-30,Kentucky,Allen,3.0,5.0
+686,2344954,2022-06-30,New Jersey,Newark,0.0,9.0
+687,2344008,2022-06-29,New Jersey,Jersey City,0.0,4.0
+688,2344201,2022-06-29,Pennsylvania,Philadelphia,0.0,4.0
+689,2341725,2022-06-27,North Carolina,Charlotte,0.0,5.0
+690,2340458,2022-06-26,Georgia,Blakely,1.0,6.0
+691,2340720,2022-06-26,Virginia,Sutherlin,1.0,7.0
+692,2340685,2022-06-26,New Jersey,Paterson,0.0,5.0
+693,2340473,2022-06-26,Texas,San Antonio,1.0,3.0
+694,2340696,2022-06-26,Texas,Winona,0.0,5.0
+695,2340409,2022-06-26,Washington,Tacoma,0.0,8.0
+696,2340297,2022-06-25,New York,Brooklyn,0.0,4.0
+697,2339761,2022-06-25,Texas,Houston,2.0,2.0
+698,2340347,2022-06-25,Minnesota,Minneapolis,0.0,4.0
+699,2339866,2022-06-24,Virginia,Hopewell,2.0,2.0
+700,2338874,2022-06-24,Pennsylvania,Philadelphia,2.0,2.0
+701,2338902,2022-06-23,Illinois,Chicago,1.0,3.0
+702,2335052,2022-06-20,New York,New York (Manhattan),1.0,8.0
+703,2335872,2022-06-20,New York,Staten Island,0.0,5.0
+704,2334920,2022-06-19,District of Columbia,Washington,1.0,3.0
+705,2334936,2022-06-19,Michigan,Detroit,1.0,3.0
+706,2334374,2022-06-19,Michigan,Grand Rapids,0.0,4.0
+707,2334512,2022-06-19,Florida,Miami,0.0,5.0
+708,2334620,2022-06-19,South Carolina,Walterboro,2.0,2.0
+709,2333675,2022-06-18,Florida,Pensacola,0.0,5.0
+710,2334359,2022-06-18,Texas,San Antonio,2.0,5.0
+711,2334096,2022-06-17,Maryland,Baltimore,0.0,4.0
+712,2333667,2022-06-17,Illinois,Chicago,0.0,5.0
+713,2333154,2022-06-16,California,Oakland,1.0,4.0
+714,2328374,2022-06-12,California,Los Angeles,3.0,4.0
+715,2328532,2022-06-12,Michigan,Roseville,0.0,4.0
+716,2328265,2022-06-12,Indiana,Gary,2.0,4.0
+717,2328215,2022-06-12,Indiana,Indianapolis,0.0,4.0
+718,2328117,2022-06-12,Louisiana,New Orleans,0.0,4.0
+719,2328342,2022-06-12,Colorado,Denver,2.0,4.0
+720,2360288,2022-06-11,New Mexico,Alamogordo,0.0,4.0
+721,2327598,2022-06-11,Michigan,Detroit,0.0,4.0
+722,2327645,2022-06-11,Illinois,Chicago,1.0,4.0
+723,2328482,2022-06-11,Georgia,Atlanta (College Park),0.0,7.0
+724,2328108,2022-06-11,Tennessee,Antioch,2.0,2.0
+725,2327991,2022-06-11,Kentucky,Louisville,0.0,6.0
+726,2327247,2022-06-10,Georgia,Decatur,1.0,3.0
+727,2325498,2022-06-09,Maryland,Smithsburg,3.0,2.0
+728,2325328,2022-06-08,Arizona,Yuma,0.0,4.0
+729,2323642,2022-06-07,Virginia,Portsmouth,4.0,0.0
+730,2324475,2022-06-07,Illinois,Chicago,0.0,4.0
+731,2324435,2022-06-07,Maryland,Baltimore,2.0,2.0
+732,2324496,2022-06-07,Illinois,Chicago,0.0,4.0
+733,2321772,2022-06-05,Michigan,Saginaw,3.0,1.0
+734,2321440,2022-06-05,Arizona,Mesa,2.0,2.0
+735,2321532,2022-06-05,Tennessee,Chattanooga,2.0,11.0
+736,2321693,2022-06-05,Michigan,Grand Rapids,1.0,3.0
+737,2322804,2022-06-05,South Carolina,Andrews,0.0,5.0
+738,2321193,2022-06-04,Michigan,Ecorse,0.0,4.0
+739,2321500,2022-06-04,Georgia,Macon,2.0,2.0
+740,2320673,2022-06-04,Texas,El Paso (Socorro),0.0,5.0
+741,2321266,2022-06-04,Pennsylvania,Philadelphia,2.0,10.0
+742,2320618,2022-06-04,Arizona,Phoenix,1.0,8.0
+743,2321593,2022-06-04,South Carolina,Summerton,1.0,7.0
+744,2321698,2022-06-04,New York,Hempstead,1.0,3.0
+745,2320361,2022-06-03,Virginia,Chester,1.0,5.0
+746,2320862,2022-06-03,Nebraska,Omaha,1.0,3.0
+747,2319567,2022-06-02,Texas,Centerville,5.0,0.0
+748,2318310,2022-06-01,Oklahoma,Tulsa,4.0,0.0
+749,2318046,2022-05-31,Texas,Waco,0.0,4.0
+750,2316616,2022-05-30,Michigan,Benton Harbor,1.0,6.0
+751,2315903,2022-05-30,Pennsylvania,Philadelphia,2.0,2.0
+752,2317016,2022-05-30,South Carolina,Charleston,0.0,9.0
+753,2315150,2022-05-29,Oklahoma,Taft,1.0,7.0
+754,2315361,2022-05-29,Nevada,Henderson,0.0,7.0
+755,2315892,2022-05-29,Illinois,Chicago,1.0,3.0
+756,2316364,2022-05-29,Texas,Houston,0.0,4.0
+757,2315605,2022-05-29,Arizona,Phoenix,1.0,5.0
+758,2315074,2022-05-29,Illinois,Chicago,0.0,5.0
+759,2314991,2022-05-28,Tennessee,Chattanooga,0.0,6.0
+760,2315338,2022-05-28,California,Fresno,1.0,3.0
+761,2315417,2022-05-28,Florida,Malabar,0.0,4.0
+762,2315190,2022-05-28,Colorado,Colorado Springs,1.0,3.0
+763,2315333,2022-05-28,California,Merced,1.0,3.0
+764,2314951,2022-05-28,Tennessee,Memphis,0.0,4.0
+765,2313988,2022-05-27,Alabama,Anniston,0.0,6.0
+766,2313970,2022-05-27,Michigan,Stanwood,4.0,0.0
+767,2312678,2022-05-25,Pennsylvania,Philadelphia,0.0,4.0
+768,2310278,2022-05-24,Texas,Uvalde,21.0,17.0
+769,2309711,2022-05-23,South Carolina,North Charleston,0.0,5.0
+770,2311123,2022-05-23,Ohio,Cleveland,0.0,5.0
+771,2308096,2022-05-21,Indiana,Goshen,1.0,3.0
+772,2308395,2022-05-21,Washington,Tacoma,0.0,4.0
+773,2308017,2022-05-20,California,Highland,1.0,8.0
+774,2307631,2022-05-20,Florida,Kissimmee,1.0,3.0
+775,2307813,2022-05-20,Louisiana,New Orleans,1.0,3.0
+776,2307044,2022-05-19,Illinois,Chicago,2.0,7.0
+777,2306277,2022-05-18,Pennsylvania,Philadelphia,0.0,5.0
+778,2305208,2022-05-17,California,Palo Alto (East Palo Alto),1.0,3.0
+779,2302847,2022-05-15,California,Laguna Woods,1.0,5.0
+780,2303130,2022-05-15,North Carolina,Winston Salem (Winston-salem),0.0,7.0
+781,2304029,2022-05-15,North Carolina,Elizabeth City,0.0,4.0
+782,2302740,2022-05-15,Texas,Houston,2.0,3.0
+783,2303337,2022-05-15,Texas,Amarillo,1.0,4.0
+784,2301751,2022-05-14,New York,Buffalo,10.0,3.0
+785,2354757,2022-05-13,Louisiana,Napoleonville,0.0,5.0
+786,2301494,2022-05-13,Wisconsin,Milwaukee,0.0,11.0
+787,2300713,2022-05-12,Arkansas,Hot Springs National Park (Hot Springs),1.0,3.0
+788,2299660,2022-05-11,Illinois,Chicago,0.0,4.0
+789,2299126,2022-05-11,Indiana,Indianapolis,0.0,5.0
+790,2299793,2022-05-11,Missouri,Saint Louis,1.0,3.0
+791,2300830,2022-05-11,New Jersey,Paterson,1.0,4.0
+792,2298872,2022-05-10,Maryland,Baltimore,0.0,5.0
+793,2298836,2022-05-10,Illinois,Chicago,1.0,4.0
+794,2299407,2022-05-10,Illinois,Chicago,0.0,6.0
+795,2298519,2022-05-10,Pennsylvania,Philadelphia,0.0,4.0
+796,2298591,2022-05-10,Maryland,Baltimore,1.0,3.0
+797,2299176,2022-05-10,Texas,Brookshire,1.0,3.0
+798,2297823,2022-05-09,Michigan,Detroit,0.0,4.0
+799,2298092,2022-05-09,Alabama,Tuscaloosa,0.0,5.0
+800,2297261,2022-05-08,Georgia,Clarkston,3.0,3.0
+801,2296191,2022-05-07,Kentucky,Lexington,2.0,3.0
+802,2296224,2022-05-07,Florida,Miami,0.0,4.0
+803,2296808,2022-05-07,Texas,Garland,2.0,2.0
+804,2296037,2022-05-06,Louisiana,New Orleans,2.0,4.0
+805,2296064,2022-05-05,Washington,Sunnyside,0.0,5.0
+806,2294515,2022-05-03,Kansas,Cowley (county),0.0,4.0
+807,2293603,2022-05-03,Louisiana,Baton Rouge,0.0,5.0
+808,2294477,2022-05-03,Texas,Beaumont,0.0,5.0
+809,2291712,2022-05-01,Louisiana,Lafayette,0.0,11.0
+810,2291578,2022-05-01,Ohio,Springfield,1.0,4.0
+811,2292452,2022-05-01,Florida,Tarpon Springs,0.0,6.0
+812,2292613,2022-05-01,South Carolina,North Charleston,1.0,3.0
+813,2291618,2022-04-30,Georgia,Atlanta,0.0,4.0
+814,2291470,2022-04-30,Mississippi,Jackson,0.0,5.0
+815,2291185,2022-04-29,Tennessee,Jackson,2.0,2.0
+816,2290903,2022-04-29,Louisiana,New Orleans,0.0,6.0
+817,2291534,2022-04-29,Mississippi,Laurel,0.0,4.0
+818,2290026,2022-04-28,Alabama,Bessemer,1.0,3.0
+819,2288928,2022-04-27,Illinois,Chicago,0.0,4.0
+820,2288842,2022-04-27,Mississippi,Biloxi,4.0,0.0
+821,2289610,2022-04-27,Texas,San Antonio,0.0,5.0
+822,2289308,2022-04-27,Louisiana,Opelousas,2.0,3.0
+823,2289382,2022-04-27,Arizona,Phoenix,0.0,4.0
+824,2287581,2022-04-25,Alabama,Birmingham,1.0,3.0
+825,2286363,2022-04-24,South Carolina,Myrtle Beach,1.0,3.0
+826,2286061,2022-04-24,Indiana,Lafayette,2.0,3.0
+827,2285772,2022-04-23,Illinois,Chicago,2.0,2.0
+828,2285612,2022-04-23,North Carolina,Rocky Mount,0.0,4.0
+829,2285860,2022-04-23,Georgia,Atlanta,0.0,5.0
+830,2286089,2022-04-23,California,San Bernardino,1.0,4.0
+831,2285158,2022-04-22,Virginia,Petersburg,1.0,5.0
+832,2284819,2022-04-22,District of Columbia,Washington,0.0,4.0
+833,2285242,2022-04-22,Ohio,Cincinnati,0.0,4.0
+834,2285267,2022-04-21,Arkansas,Mountain View,4.0,0.0
+835,2283535,2022-04-20,Minnesota,Duluth,4.0,0.0
+836,2281171,2022-04-17,Pennsylvania,Philadelphia,0.0,4.0
+837,2281541,2022-04-17,Oregon,Portland,1.0,3.0
+838,2280875,2022-04-17,South Carolina,Furman,0.0,9.0
+839,2281164,2022-04-17,California,Sacramento,1.0,3.0
+840,2281483,2022-04-17,Florida,Miami,1.0,3.0
+841,2280711,2022-04-17,Pennsylvania,Pittsburgh,2.0,9.0
+842,2282256,2022-04-17,Louisiana,Baldwin,0.0,5.0
+843,2280204,2022-04-16,South Carolina,Columbia,0.0,9.0
+844,2280495,2022-04-16,Maryland,Baltimore,1.0,3.0
+845,2281244,2022-04-16,Nevada,North Las Vegas,0.0,4.0
+846,2281410,2022-04-16,Texas,Daingerfield,1.0,6.0
+847,2280017,2022-04-16,New York,Syracuse,1.0,4.0
+848,2280504,2022-04-15,California,Stockton,2.0,2.0
+849,2276339,2022-04-12,New York,Brooklyn,0.0,10.0
+850,2277011,2022-04-12,New York,Bronx,1.0,3.0
+851,2275242,2022-04-10,Louisiana,Baton Rouge,0.0,4.0
+852,2274790,2022-04-10,Iowa,Cedar Rapids,3.0,9.0
+853,2274803,2022-04-10,Illinois,Elgin,2.0,4.0
+854,2275283,2022-04-10,California,Willowbrook,2.0,5.0
+855,2274783,2022-04-10,Indiana,Indianapolis,1.0,5.0
+856,2274296,2022-04-09,Florida,Miami,0.0,4.0
+857,2274855,2022-04-09,District of Columbia,Washington,0.0,4.0
+858,2272394,2022-04-06,Pennsylvania,Philadelphia,0.0,4.0
+859,2270747,2022-04-04,Kentucky,Covington,0.0,4.0
+860,2270578,2022-04-04,Connecticut,Hartford,1.0,3.0
+861,2269429,2022-04-03,New York,Buffalo,0.0,4.0
+862,2269100,2022-04-03,Texas,Dallas,1.0,16.0
+863,2269745,2022-04-03,California,San Francisco,2.0,2.0
+864,2269082,2022-04-03,California,Sacramento,6.0,11.0
+865,2268723,2022-04-02,North Carolina,Shelby,1.0,3.0
+866,2268762,2022-04-02,Louisiana,Monroe,1.0,4.0
+867,2269059,2022-04-02,Colorado,Colorado Springs,0.0,4.0
+868,2269034,2022-04-02,Louisiana,Shreveport,1.0,3.0
+869,2269259,2022-04-01,South Carolina,Walterboro,0.0,4.0
+870,2264094,2022-03-26,California,Hollister,2.0,3.0
+871,2265029,2022-03-26,Ohio,Cleveland,0.0,4.0
+872,2263608,2022-03-25,Colorado,Colorado Springs,2.0,2.0
+873,2260129,2022-03-22,California,Stockton,1.0,3.0
+874,2259262,2022-03-21,Connecticut,Waterbury,0.0,4.0
+875,2259413,2022-03-21,Illinois,Chicago,2.0,2.0
+876,2258324,2022-03-20,Wisconsin,Milwaukee,0.0,4.0
+877,2258156,2022-03-20,Texas,Austin,0.0,4.0
+878,2258224,2022-03-20,Texas,Houston,1.0,3.0
+879,2257316,2022-03-19,Virginia,Norfolk,3.0,2.0
+880,2258012,2022-03-19,North Carolina,Fayetteville,3.0,3.0
+881,2257739,2022-03-19,Arkansas,Dumas,1.0,26.0
+882,2257674,2022-03-19,Virginia,Madison Heights,1.0,4.0
+883,2258182,2022-03-19,Texas,Dallas,1.0,9.0
+884,2256453,2022-03-18,Texas,Fort Worth,1.0,3.0
+885,2257778,2022-03-18,Louisiana,New Iberia,0.0,5.0
+886,2257132,2022-03-17,Michigan,Lansing,0.0,4.0
+887,2256398,2022-03-17,Illinois,Chicago,0.0,4.0
+888,2255816,2022-03-17,Florida,Fort Lauderdale,2.0,2.0
+889,2255832,2022-03-16,New Jersey,Irvington,1.0,3.0
+890,2256080,2022-03-16,New Jersey,Irvington,1.0,3.0
+891,2254579,2022-03-15,Alabama,Ozark,0.0,5.0
+892,2253714,2022-03-14,Pennsylvania,Reading,1.0,3.0
+893,2252873,2022-03-13,Illinois,Chicago,0.0,7.0
+894,2252500,2022-03-13,New York,Rochester,2.0,2.0
+895,2252792,2022-03-13,South Carolina,Columbia,1.0,4.0
+896,2252719,2022-03-12,Maryland,Baltimore,3.0,1.0
+897,2253654,2022-03-12,Alabama,Autaugaville,1.0,3.0
+898,2251416,2022-03-11,Ohio,Columbus,2.0,2.0
+899,2250540,2022-03-09,Colorado,Aurora,1.0,3.0
+900,2250151,2022-03-08,Florida,Jacksonville,1.0,4.0
+901,2249608,2022-03-07,Tennessee,Knoxville,0.0,4.0
+902,2247617,2022-03-06,Minnesota,Minneapolis,1.0,3.0
+903,2248066,2022-03-06,Pennsylvania,Hazleton,1.0,4.0
+904,2247842,2022-03-06,Kentucky,Louisville,0.0,4.0
+905,2247828,2022-03-06,Texas,Lubbock,0.0,4.0
+906,2247622,2022-03-06,South Carolina,Chester,2.0,3.0
+907,2248613,2022-03-06,Louisiana,Monroe,0.0,4.0
+908,2247747,2022-03-05,Arizona,Glendale,1.0,3.0
+909,2247025,2022-03-05,Georgia,Atlanta,0.0,4.0
+910,2246387,2022-03-03,Nevada,Las Vegas,1.0,6.0
+911,2245620,2022-03-02,Maryland,Baltimore,1.0,3.0
+912,2243861,2022-02-28,California,Sacramento,4.0,0.0
+913,2243285,2022-02-27,Louisiana,Alexandria,0.0,4.0
+914,2242345,2022-02-26,South Carolina,North Charleston,1.0,3.0
+915,2242153,2022-02-26,Nevada,Las Vegas,1.0,13.0
+916,2244673,2022-02-26,Louisiana,Bogalusa,0.0,9.0
+917,2241857,2022-02-25,Louisiana,Baton Rouge,2.0,2.0
+918,2241299,2022-02-24,Texas,San Antonio,0.0,4.0
+919,2238575,2022-02-21,Minnesota,Saint Paul,1.0,3.0
+920,2238165,2022-02-20,Iowa,Des Moines,0.0,4.0
+921,2238657,2022-02-20,Nebraska,Omaha,0.0,4.0
+922,2238403,2022-02-20,Oregon,Portland,1.0,3.0
+923,2238312,2022-02-20,Mississippi,Mccomb,1.0,2.0
+924,2237697,2022-02-19,Oregon,Portland,1.0,5.0
+925,2237593,2022-02-19,Missouri,Charleston,2.0,14.0
+926,2237196,2022-02-19,California,Turlock,0.0,7.0
+927,2237058,2022-02-19,North Carolina,Durham,2.0,2.0
+928,2236857,2022-02-18,Maryland,Temple Hills (Marlow Heights),2.0,2.0
+929,2236155,2022-02-17,Pennsylvania,Philadelphia,0.0,4.0
+930,2235778,2022-02-17,Texas,Houston,0.0,5.0
+931,2235366,2022-02-16,Florida,Miami,1.0,3.0
+932,2234868,2022-02-15,Illinois,Joliet,1.0,3.0
+933,2232854,2022-02-13,Wisconsin,Racine,0.0,5.0
+934,2232351,2022-02-12,Tennessee,Murfreesboro,1.0,4.0
+935,2232287,2022-02-12,California,West Hollywood,0.0,4.0
+936,2232476,2022-02-12,Arkansas,Little Rock,1.0,3.0
+937,2231921,2022-02-11,Missouri,Springfield,0.0,4.0
+938,2231371,2022-02-11,Arizona,Phoenix,1.0,9.0
+939,2227759,2022-02-06,Florida,Fort Lauderdale,0.0,4.0
+940,2228979,2022-02-06,Illinois,Romeoville,0.0,5.0
+941,2228510,2022-02-06,California,Fresno,2.0,2.0
+942,2228660,2022-02-06,North Carolina,Wilmington,0.0,4.0
+943,2227058,2022-02-05,Texas,Corsicana,7.0,0.0
+944,2227187,2022-02-05,New Mexico,Las Cruces,1.0,3.0
+945,2227035,2022-02-04,Virginia,Blacksburg,1.0,4.0
+946,2225493,2022-02-02,California,Oroville,1.0,4.0
+947,2224788,2022-02-01,Wisconsin,Milwaukee,0.0,5.0
+948,2224013,2022-01-31,North Carolina,Raleigh,1.0,3.0
+949,2222953,2022-01-30,Florida,Winter Haven,1.0,3.0
+950,2223019,2022-01-30,Georgia,Augusta,1.0,3.0
+951,2222557,2022-01-29,Missouri,Saint Louis,3.0,1.0
+952,2222383,2022-01-29,Georgia,Atlanta,1.0,3.0
+953,2222766,2022-01-29,California,Bakersfield,0.0,4.0
+954,2220985,2022-01-27,District of Columbia,Washington,1.0,4.0
+955,2217882,2022-01-23,California,Inglewood,4.0,1.0
+956,2218159,2022-01-23,Wisconsin,Milwaukee,6.0,0.0
+957,2215955,2022-01-19,Maryland,Baltimore,3.0,1.0
+958,2215256,2022-01-19,Louisiana,New Orleans,0.0,4.0
+959,2214013,2022-01-18,Florida,Miami,0.0,4.0
+960,2214306,2022-01-17,Texas,San Antonio,1.0,4.0
+961,2213456,2022-01-16,Georgia,Savannah,1.0,3.0
+962,2212203,2022-01-15,Tennessee,Knoxville,0.0,4.0
+963,2212018,2022-01-15,Georgia,Brunswick,1.0,5.0
+964,2211746,2022-01-14,Oregon,Eugene,0.0,6.0
+965,2210480,2022-01-13,New York,Brooklyn,1.0,3.0
+966,2209840,2022-01-12,Illinois,Chicago,0.0,4.0
+967,2207435,2022-01-09,California,Fresno,0.0,4.0
+968,2207931,2022-01-09,California,Los Angeles,1.0,4.0
+969,2207469,2022-01-09,Alabama,Montgomery,1.0,6.0
+970,2207406,2022-01-09,Colorado,Colorado Springs,2.0,3.0
+971,2206813,2022-01-08,Texas,Houston,1.0,3.0
+972,2205024,2022-01-04,Mississippi,Jackson,1.0,3.0
+973,2202976,2022-01-02,Texas,Corsicana,2.0,2.0
+974,2202727,2022-01-02,Texas,San Antonio,2.0,2.0
+975,2202025,2022-01-01,Missouri,Columbia,0.0,4.0
+976,2202001,2022-01-01,Illinois,Peoria,2.0,2.0
+977,2201629,2022-01-01,Pennsylvania,Philadelphia,1.0,4.0
+978,2201641,2022-01-01,Wisconsin,Kenosha,1.0,3.0
+979,2201876,2022-01-01,South Carolina,Dillon,0.0,5.0
+980,2201848,2022-01-01,Indiana,South Bend,0.0,4.0
+981,2201677,2022-01-01,Colorado,Denver,2.0,2.0
+982,2201535,2021-12-31,Maryland,Capitol Heights,0.0,4.0
+983,2201716,2021-12-31,Mississippi,Gulfport,3.0,4.0
+984,2201216,2021-12-31,California,Los Angeles,0.0,6.0
+985,2200968,2021-12-30,Pennsylvania,Philadelphia,0.0,6.0
+986,2201052,2021-12-30,Missouri,Kirksville,2.0,2.0
+987,2198521,2021-12-27,Colorado,Denver,6.0,2.0
+988,2198014,2021-12-27,Ohio,Youngstown,1.0,3.0
+989,2200720,2021-12-27,Alabama,Mobile,1.0,3.0
+990,2198071,2021-12-26,New York,Buffalo,0.0,4.0
+991,2197391,2021-12-26,Texas,Garland,3.0,1.0
+992,2197178,2021-12-26,Virginia,Clear Brook,1.0,4.0
+993,2197421,2021-12-26,Mississippi,Fayette,1.0,6.0
+994,2197328,2021-12-26,Pennsylvania,Philadelphia,0.0,4.0
+995,2196827,2021-12-25,Louisiana,Lafayette,0.0,4.0
+996,2196434,2021-12-24,Georgia,Roswell,1.0,3.0
+997,2196839,2021-12-24,New York,Brooklyn,0.0,4.0
+998,2196267,2021-12-24,Pennsylvania,Pittsburgh,0.0,6.0
+999,2193049,2021-12-19,Illinois,Lovejoy (Brooklyn),1.0,3.0
+1000,2191683,2021-12-17,Virginia,Portsmouth,0.0,4.0
+1001,2191752,2021-12-17,Maryland,Baltimore,1.0,3.0
+1002,2192046,2021-12-17,Maryland,Baltimore,1.0,4.0
+1003,2191479,2021-12-16,Alabama,Troy,0.0,4.0
+1004,2188999,2021-12-13,California,Fresno,0.0,4.0
+1005,2188260,2021-12-13,North Carolina,Durham,2.0,4.0
+1006,2188843,2021-12-13,Pennsylvania,Philadelphia,0.0,4.0
+1007,2187939,2021-12-12,Mississippi,Bolton,0.0,6.0
+1008,2190367,2021-12-12,Florida,Tampa,0.0,5.0
+1009,2187990,2021-12-12,Texas,Baytown,1.0,13.0
+1010,2188066,2021-12-12,Virginia,Woodbridge,0.0,4.0
+1011,2187027,2021-12-11,Illinois,River Grove,1.0,3.0
+1012,2186517,2021-12-10,Michigan,Lansing,1.0,3.0
+1013,2187077,2021-12-10,Florida,Orlando,0.0,5.0
+1014,2186696,2021-12-10,North Carolina,Charlotte,0.0,5.0
+1015,2186858,2021-12-09,Maryland,Capitol Heights,0.0,4.0
+1016,2186246,2021-12-09,Wisconsin,Beloit,1.0,5.0
+1017,2183667,2021-12-06,Pennsylvania,Philadelphia,0.0,4.0
+1018,2182789,2021-12-05,Michigan,Detroit,2.0,2.0
+1019,2183120,2021-12-05,Texas,El Paso,1.0,3.0
+1020,2181840,2021-12-03,Tennessee,Memphis,2.0,2.0
+1021,2181096,2021-12-02,North Carolina,Elizabeth City,3.0,3.0
+1022,2178487,2021-11-30,Michigan,Oxford,4.0,7.0
+1023,2179099,2021-11-30,Georgia,Rex,4.0,2.0
+1024,2176922,2021-11-28,Maryland,Baltimore,0.0,7.0
+1025,2177300,2021-11-28,Illinois,Evanston,1.0,4.0
+1026,2177416,2021-11-28,California,Lancaster,5.0,0.0
+1027,2176653,2021-11-28,Colorado,Aurora,0.0,5.0
+1028,2177268,2021-11-28,Pennsylvania,Philadelphia,0.0,4.0
+1029,2176667,2021-11-27,New Jersey,Newark,1.0,3.0
+1030,2176058,2021-11-26,Tennessee,Nashville,3.0,4.0
+1031,2175329,2021-11-25,Texas,San Antonio,2.0,2.0
+1032,2175615,2021-11-25,South Carolina,Green Sea,0.0,4.0
+1033,2173531,2021-11-23,Florida,Lehigh Acres,0.0,4.0
+1034,2174033,2021-11-23,Texas,Marshall,1.0,3.0
+1035,2174685,2021-11-22,North Carolina,Warsaw,2.0,2.0
+1036,2172657,2021-11-21,Louisiana,Baton Rouge,1.0,4.0
+1037,2172178,2021-11-21,New Jersey,Passaic,0.0,5.0
+1038,2171568,2021-11-20,California,Fresno,2.0,2.0
+1039,2172018,2021-11-20,Illinois,Berwyn,0.0,4.0
+1040,2170438,2021-11-18,Maryland,Cambridge,1.0,3.0
+1041,2169719,2021-11-17,Illinois,East Saint Louis,1.0,3.0
+1042,2170140,2021-11-17,New York,Newburgh,0.0,4.0
+1043,2169494,2021-11-17,New York,Bronx,1.0,3.0
+1044,2168989,2021-11-17,Illinois,Chicago,0.0,4.0
+1045,2167778,2021-11-15,New York,New York (Manhattan),0.0,4.0
+1046,2167297,2021-11-15,Colorado,Aurora,0.0,6.0
+1047,2166673,2021-11-14,Pennsylvania,Philadelphia,0.0,6.0
+1048,2166768,2021-11-14,Missouri,Columbia,1.0,5.0
+1049,2166953,2021-11-14,Oregon,Chiloquin,2.0,2.0
+1050,2166750,2021-11-14,Arizona,Tucson,4.0,1.0
+1051,2166817,2021-11-14,Alabama,Troy,1.0,5.0
+1052,2166055,2021-11-13,North Carolina,Winston Salem (Winston-salem),0.0,4.0
+1053,2167889,2021-11-13,Louisiana,Houma,0.0,4.0
+1054,2165600,2021-11-12,Virginia,Richmond,2.0,2.0
+1055,2165535,2021-11-12,Alabama,Birmingham,2.0,2.0
+1056,2163306,2021-11-09,New York,Rochester,0.0,4.0
+1057,2163772,2021-11-09,Louisiana,Hahnville (Killona),1.0,4.0
+1058,2163617,2021-11-09,South Dakota,Scotland,3.0,2.0
+1059,2162196,2021-11-08,Texas,Victoria,3.0,1.0
+1060,2162269,2021-11-08,Pennsylvania,Philadelphia,0.0,4.0
+1061,2161323,2021-11-07,Wisconsin,Kenosha,1.0,3.0
+1062,2161116,2021-11-06,California,Oakley,2.0,2.0
+1063,2160608,2021-11-06,Texas,Marshall,0.0,6.0
+1064,2161078,2021-11-06,California,Highland,0.0,4.0
+1065,2160838,2021-11-05,California,Oakland,1.0,3.0
+1066,2158524,2021-11-03,Iowa,Des Moines,0.0,4.0
+1067,2158417,2021-11-03,Virginia,Norfolk,3.0,2.0
+1068,2157991,2021-11-02,Alabama,Mobile,0.0,4.0
+1069,2156175,2021-11-01,Florida,Orlando,0.0,4.0
+1070,2157206,2021-11-01,Texas,San Antonio,0.0,4.0
+1071,2155369,2021-10-31,Kentucky,Louisville,2.0,2.0
+1072,2155329,2021-10-31,Illinois,Joliet,2.0,12.0
+1073,2155517,2021-10-31,Colorado,Littleton (Lakewood),2.0,2.0
+1074,2155428,2021-10-31,Illinois,Flossmoor,1.0,3.0
+1075,2155282,2021-10-31,Texas,Houston,1.0,3.0
+1076,2156001,2021-10-31,Texas,Fort Worth,1.0,3.0
+1077,2154851,2021-10-30,California,Gilroy,1.0,3.0
+1078,2154422,2021-10-30,Illinois,Decatur,0.0,4.0
+1079,2154441,2021-10-30,Oklahoma,Oklahoma City,0.0,4.0
+1080,2154873,2021-10-30,California,Sacramento,2.0,5.0
+1081,2155172,2021-10-30,Florida,Saint Petersburg,1.0,4.0
+1082,2155001,2021-10-30,Texas,Texarkana,1.0,9.0
+1083,2154283,2021-10-29,New York,Poughkeepsie,0.0,5.0
+1084,2155826,2021-10-29,Michigan,Kalamazoo,0.0,4.0
+1085,2153285,2021-10-28,Nevada,Las Vegas,0.0,4.0
+1086,2153779,2021-10-28,Tennessee,Nashville,1.0,3.0
+1087,2150274,2021-10-25,Idaho,Boise,3.0,3.0
+1088,2154085,2021-10-24,California,Gonzales,2.0,2.0
+1089,2150037,2021-10-24,Mississippi,Crenshaw,2.0,3.0
+1090,2148921,2021-10-23,South Carolina,Florence,0.0,6.0
+1091,2148891,2021-10-23,California,Ontario,1.0,4.0
+1092,2148633,2021-10-23,Georgia,Fort Valley,1.0,7.0
+1093,2148282,2021-10-22,Illinois,Chicago,0.0,5.0
+1094,2148946,2021-10-22,Washington,Renton,0.0,4.0
+1095,2148401,2021-10-22,Maryland,Baltimore,0.0,7.0
+1096,2147114,2021-10-21,New York,Brooklyn,0.0,4.0
+1097,2147301,2021-10-21,Washington,Tacoma,4.0,0.0
+1098,2147042,2021-10-20,Michigan,Farwell,4.0,0.0
+1099,2145931,2021-10-19,Wisconsin,Kenosha,3.0,2.0
+1100,2143277,2021-10-17,Louisiana,Grambling,1.0,7.0
+1101,2143113,2021-10-17,Missouri,Saint Louis,1.0,3.0
+1102,2143765,2021-10-17,Texas,Houston,0.0,7.0
+1103,2143889,2021-10-17,Colorado,Colorado Springs,0.0,5.0
+1104,2144160,2021-10-17,Wisconsin,Racine,0.0,6.0
+1105,2143479,2021-10-17,Arkansas,Pine Bluff,1.0,9.0
+1106,2143499,2021-10-17,Arkansas,Pine Bluff,1.0,3.0
+1107,2143605,2021-10-17,Mississippi,Jackson,3.0,3.0
+1108,2142402,2021-10-16,Texas,Killeen,1.0,3.0
+1109,2142296,2021-10-15,Alabama,Mobile,0.0,5.0
+1110,2142092,2021-10-14,Minnesota,Minneapolis,1.0,4.0
+1111,2155043,2021-10-14,Mississippi,Mccomb,0.0,6.0
+1112,2139048,2021-10-12,Florida,Naples,1.0,5.0
+1113,2139674,2021-10-12,Mississippi,Meridian,3.0,1.0
+1114,2139198,2021-10-11,Georgia,South Fulton,0.0,6.0
+1115,2137321,2021-10-10,South Carolina,Mc Coll (Mccoll),2.0,3.0
+1116,2137561,2021-10-10,Iowa,Sioux City,0.0,4.0
+1117,2137198,2021-10-10,Minnesota,Saint Paul,1.0,15.0
+1118,2137179,2021-10-10,Illinois,Chicago,1.0,4.0
+1119,2137555,2021-10-10,Delaware,Dover,1.0,4.0
+1120,2136907,2021-10-09,Louisiana,Livingston,2.0,4.0
+1121,2137291,2021-10-09,Texas,Dallas,0.0,4.0
+1122,2137575,2021-10-09,New York,Albany,1.0,6.0
+1123,2137464,2021-10-09,Colorado,Denver,1.0,3.0
+1124,2136230,2021-10-08,Maryland,Baltimore,0.0,4.0
+1125,2136270,2021-10-08,District of Columbia,Washington,1.0,3.0
+1126,2135536,2021-10-08,Alabama,Montgomery,1.0,3.0
+1127,2135508,2021-10-07,Wisconsin,Milwaukee,3.0,1.0
+1128,2134657,2021-10-07,Illinois,Chicago,0.0,4.0
+1129,2135498,2021-10-07,Wisconsin,Milwaukee,0.0,5.0
+1130,2135666,2021-10-07,Louisiana,New Orleans,1.0,4.0
+1131,2134217,2021-10-06,Maryland,Baltimore,1.0,5.0
+1132,2134359,2021-10-06,Louisiana,New Orleans,2.0,2.0
+1133,2136132,2021-10-06,Ohio,Cleveland,0.0,4.0
+1134,2135659,2021-10-06,Ohio,Cleveland,0.0,4.0
+1135,2133137,2021-10-05,Minnesota,Saint Paul,0.0,4.0
+1136,2133962,2021-10-05,Illinois,Rockford,1.0,3.0
+1137,2132656,2021-10-04,Minnesota,Minneapolis,0.0,4.0
+1138,2131471,2021-10-03,South Carolina,Bishopville,1.0,4.0
+1139,2131406,2021-10-02,Texas,San Antonio,1.0,3.0
+1140,2130634,2021-10-02,Colorado,Aurora,1.0,3.0
+1141,2130370,2021-10-01,District of Columbia,Washington,1.0,5.0
+1142,2130763,2021-10-01,Iowa,Cedar Rapids,0.0,6.0
+1143,2128682,2021-09-29,Illinois,Chicago,0.0,5.0
+1144,2127374,2021-09-28,Illinois,Chicago,1.0,3.0
+1145,2128023,2021-09-28,Minnesota,Minneapolis,1.0,3.0
+1146,2126747,2021-09-27,New York,New York (Manhattan),0.0,5.0
+1147,2126450,2021-09-27,Illinois,Chicago,1.0,3.0
+1148,2125790,2021-09-26,Illinois,Chicago,0.0,6.0
+1149,2125953,2021-09-26,California,Oakland,0.0,4.0
+1150,2126261,2021-09-26,Washington,Seattle (Des Moines),3.0,3.0
+1151,2125613,2021-09-25,New York,Utica,0.0,4.0
+1152,2125444,2021-09-25,Tennessee,Athens,4.0,1.0
+1153,2126241,2021-09-25,Tennessee,Chattanooga,2.0,5.0
+1154,2125227,2021-09-25,California,Riverside,0.0,6.0
+1155,2124396,2021-09-24,South Carolina,Aiken,4.0,1.0
+1156,2124887,2021-09-24,California,Los Angeles,0.0,4.0
+1157,2123395,2021-09-23,Tennessee,Collierville,2.0,14.0
+1158,2123301,2021-09-23,Pennsylvania,Philadelphia,0.0,4.0
+1159,2122565,2021-09-22,North Carolina,Fayetteville,2.0,2.0
+1160,2121381,2021-09-21,District of Columbia,Washington,0.0,5.0
+1161,2120940,2021-09-20,Pennsylvania,Philadelphia,1.0,5.0
+1162,2121031,2021-09-20,Missouri,Saint Louis,1.0,3.0
+1163,2119950,2021-09-19,South Carolina,Yemassee,1.0,7.0
+1164,2119701,2021-09-19,Florida,Miami,0.0,4.0
+1165,2119745,2021-09-19,Texas,Dallas,2.0,4.0
+1166,2119736,2021-09-19,California,Oakland,1.0,3.0
+1167,2119609,2021-09-19,Illinois,Chicago,0.0,5.0
+1168,2119583,2021-09-19,New York,Rochester,2.0,2.0
+1169,2119470,2021-09-18,New York,Bronx,1.0,3.0
+1170,2119101,2021-09-18,Illinois,Danville,2.0,2.0
+1171,2119478,2021-09-18,Louisiana,Opelousas,0.0,5.0
+1172,2118451,2021-09-17,Georgia,Augusta,0.0,4.0
+1173,2116343,2021-09-14,Maryland,Baltimore,0.0,4.0
+1174,2116205,2021-09-14,Ohio,Cleveland,0.0,6.0
+1175,2115522,2021-09-13,Wisconsin,Milwaukee,0.0,5.0
+1176,2115947,2021-09-12,Minnesota,Saint Paul,4.0,0.0
+1177,2114626,2021-09-12,Texas,Temple,0.0,4.0
+1178,2122103,2021-09-12,Illinois,Blue Island,2.0,2.0
+1179,2114481,2021-09-12,Michigan,Detroit,2.0,4.0
+1180,2113841,2021-09-11,Illinois,Chicago,1.0,5.0
+1181,2114510,2021-09-11,Alabama,Dothan,0.0,5.0
+1182,2113623,2021-09-11,Illinois,Chicago,1.0,3.0
+1183,2113769,2021-09-11,New Jersey,Paterson,0.0,4.0
+1184,2114583,2021-09-11,New York,Utica,0.0,4.0
+1185,2112450,2021-09-10,Florida,Orlando,0.0,4.0
+1186,2111858,2021-09-09,Illinois,East Saint Louis,0.0,7.0
+1187,2112252,2021-09-09,Alabama,Montgomery,1.0,3.0
+1188,2111895,2021-09-08,Missouri,Saint Louis,0.0,4.0
+1189,2110346,2021-09-07,Delaware,Wilmington,0.0,4.0
+1190,2110077,2021-09-07,Kansas,Wichita,1.0,5.0
+1191,2109075,2021-09-06,Georgia,Atlanta,0.0,5.0
+1192,2108892,2021-09-05,Missouri,Independence,0.0,4.0
+1193,2108560,2021-09-05,New York,Bronx,0.0,4.0
+1195,2108414,2021-09-05,Texas,Houston,4.0,0.0
+1196,2108378,2021-09-05,Georgia,Athens,0.0,6.0
+1197,2108302,2021-09-05,Florida,Lakeland,4.0,2.0
+1198,2109384,2021-09-05,Ohio,Cincinnati,0.0,4.0
+1199,2107828,2021-09-04,Louisiana,Monroe,1.0,3.0
+1200,2107916,2021-09-04,Alabama,Birmingham,2.0,2.0
+1201,2108406,2021-09-04,Georgia,Warner Robins,1.0,4.0
+1202,2107930,2021-09-04,District of Columbia,Washington,3.0,3.0
+1203,2107875,2021-09-04,Pennsylvania,Pittsburgh,0.0,4.0
+1204,2107476,2021-09-04,Illinois,Chicago,0.0,5.0
+1205,2107621,2021-09-03,Texas,Austin,1.0,3.0
+1206,2107168,2021-09-03,New York,Syracuse,0.0,4.0
+1207,2107467,2021-09-03,Louisiana,New Iberia,1.0,3.0
+1208,2107198,2021-09-02,New York,Niagara Falls,0.0,4.0
+1209,2104725,2021-08-31,North Carolina,Elm City,2.0,2.0
+1210,2104181,2021-08-30,Illinois,Normal,3.0,3.0
+1211,2103256,2021-08-29,Tennessee,Nashville,0.0,5.0
+1212,2102991,2021-08-29,Nevada,Las Vegas,1.0,3.0
+1213,2103311,2021-08-29,Wisconsin,Milwaukee,0.0,4.0
+1214,2103132,2021-08-28,New York,Albany,0.0,5.0
+1215,2103035,2021-08-28,California,San Diego,0.0,4.0
+1216,2102694,2021-08-28,Illinois,Chicago,0.0,4.0
+1217,2101774,2021-08-27,West Virginia,Huntington,2.0,2.0
+1218,2101199,2021-08-27,California,Los Angeles,0.0,4.0
+1219,2100578,2021-08-26,Minnesota,Minneapolis,0.0,7.0
+1220,2098246,2021-08-23,Illinois,Chicago,0.0,4.0
+1221,2097075,2021-08-22,Illinois,Chicago,1.0,4.0
+1222,2098321,2021-08-22,Oregon,Portland,0.0,5.0
+1223,2097481,2021-08-22,Illinois,Carbondale,1.0,3.0
+1224,2097494,2021-08-22,Colorado,Denver,1.0,5.0
+1225,2097271,2021-08-22,Michigan,Grand Rapids,1.0,3.0
+1226,2096687,2021-08-21,Illinois,Chicago,0.0,4.0
+1227,2097063,2021-08-21,Illinois,Chicago,1.0,5.0
+1228,2095800,2021-08-20,Michigan,Flint,1.0,3.0
+1229,2095116,2021-08-19,Illinois,Chicago,0.0,4.0
+1230,2095087,2021-08-19,Pennsylvania,Philadelphia,1.0,4.0
+1231,2095394,2021-08-19,Maryland,Edgewood,1.0,3.0
+1232,2094421,2021-08-18,Maryland,Germantown,1.0,3.0
+1233,2094071,2021-08-18,Ohio,Youngstown,2.0,4.0
+1234,2094035,2021-08-18,California,Los Angeles,0.0,4.0
+1235,2094457,2021-08-18,North Carolina,Durham,1.0,3.0
+1236,2093581,2021-08-17,New York,Brooklyn,0.0,5.0
+1237,2092469,2021-08-16,New York,Brooklyn,0.0,8.0
+1238,2092227,2021-08-16,Michigan,Detroit,1.0,3.0
+1239,2091597,2021-08-15,Texas,San Antonio,3.0,2.0
+1240,2091489,2021-08-15,Illinois,Chicago,0.0,4.0
+1241,2091531,2021-08-14,Indiana,Indianapolis,1.0,3.0
+1242,2090949,2021-08-14,New York,Brooklyn,0.0,4.0
+1243,2090971,2021-08-14,Ohio,Akron,0.0,5.0
+1244,2090777,2021-08-14,Indiana,Indianapolis,1.0,4.0
+1245,2090924,2021-08-14,New Jersey,Trenton,0.0,4.0
+1246,2092110,2021-08-14,Texas,Wichita Falls,0.0,4.0
+1247,2089972,2021-08-13,Nevada,Las Vegas,1.0,6.0
+1248,2088659,2021-08-11,Pennsylvania,Philadelphia,1.0,4.0
+1249,2087433,2021-08-10,Oregon,Portland,2.0,4.0
+1251,2086236,2021-08-09,Michigan,Flint,2.0,4.0
+1252,2086148,2021-08-09,Massachusetts,Boston,1.0,5.0
+1253,2085396,2021-08-08,New York,Brooklyn,3.0,2.0
+1254,2085401,2021-08-08,Illinois,Chicago,1.0,4.0
+1255,2085489,2021-08-08,Texas,Houston,1.0,5.0
+1256,2085438,2021-08-08,District of Columbia,Washington,0.0,4.0
+1257,2085388,2021-08-08,Illinois,Chicago,1.0,6.0
+1258,2085542,2021-08-08,Louisiana,New Orleans,0.0,5.0
+1259,2085256,2021-08-07,Alabama,Montgomery,0.0,4.0
+1260,2085071,2021-08-07,Illinois,Chicago,0.0,4.0
+1261,2084884,2021-08-07,Virginia,Norfolk,0.0,4.0
+1262,2084889,2021-08-06,Tennessee,Nashville,0.0,4.0
+1263,2082957,2021-08-04,Pennsylvania,Philadelphia,0.0,4.0
+1264,2081884,2021-08-03,Illinois,Urbana,1.0,3.0
+1265,2081131,2021-08-02,South Carolina,Greenwood,3.0,1.0
+1266,2080733,2021-08-02,South Carolina,Columbia,0.0,9.0
+1267,2079920,2021-08-01,Louisiana,New Orleans,1.0,3.0
+1268,2080390,2021-08-01,Texas,Nacogdoches,1.0,3.0
+1269,2080536,2021-08-01,Rhode Island,Providence,0.0,5.0
+1270,2079913,2021-08-01,Louisiana,New Orleans,0.0,5.0
+1271,2079044,2021-07-31,Ohio,Columbus,1.0,5.0
+1272,2078897,2021-07-31,Illinois,Chicago,1.0,3.0
+1273,2079271,2021-07-31,Indiana,Indianapolis,0.0,5.0
+1274,2080006,2021-07-31,Michigan,Saginaw,2.0,2.0
+1275,2079516,2021-07-31,New York,Corona (Queens),0.0,10.0
+1276,2081480,2021-07-31,Ohio,Cleveland,0.0,5.0
+1277,2079533,2021-07-31,Kentucky,Lexington,0.0,5.0
+1278,2078540,2021-07-29,Iowa,Davenport,0.0,4.0
+1279,2077587,2021-07-29,Pennsylvania,Pittsburgh,3.0,2.0
+1280,2077018,2021-07-28,District of Columbia,Washington,0.0,4.0
+1281,2077549,2021-07-28,Alabama,Montgomery,1.0,3.0
+1282,2076889,2021-07-28,South Carolina,Charleston,1.0,4.0
+1283,2074353,2021-07-25,Michigan,Detroit,0.0,6.0
+1284,2074406,2021-07-25,California,Wasco,5.0,1.0
+1285,2073472,2021-07-25,Illinois,Chicago,0.0,5.0
+1286,2073597,2021-07-25,Washington,Seattle,2.0,3.0
+1287,2072782,2021-07-24,Ohio,Columbus,0.0,4.0
+1288,2072962,2021-07-24,Texas,Amarillo,0.0,6.0
+1289,2072761,2021-07-24,Georgia,Macon,2.0,3.0
+1290,2072342,2021-07-23,South Carolina,Spartanburg,2.0,2.0
+1291,2071982,2021-07-23,South Carolina,Darlington,0.0,4.0
+1292,2072896,2021-07-23,California,San Rafael,2.0,4.0
+1293,2071343,2021-07-22,Texas,Houston,1.0,5.0
+1294,2070329,2021-07-21,Illinois,Chicago,0.0,5.0
+1295,2070310,2021-07-21,Illinois,Chicago,2.0,3.0
+1296,2069490,2021-07-21,Maryland,Hyattsville (Adelphi),1.0,4.0
+1297,2070645,2021-07-21,Illinois,Chicago,0.0,8.0
+1298,2068568,2021-07-20,Texas,Jacksonville,4.0,0.0
+1299,2067728,2021-07-19,New Jersey,Perth Amboy,0.0,6.0
+1300,2068061,2021-07-19,Illinois,Chicago,0.0,4.0
+1301,2066335,2021-07-18,Ohio,Toledo,1.0,3.0
+1302,2067135,2021-07-18,Florida,Gainesville,1.0,4.0
+1303,2066680,2021-07-18,North Carolina,Burlington,0.0,4.0
+1304,2066905,2021-07-18,Arizona,Tucson,4.0,3.0
+1305,2067290,2021-07-18,Texas,Houston,3.0,2.0
+1306,2066812,2021-07-18,California,Walnut Creek,1.0,3.0
+1307,2065252,2021-07-17,Oregon,Portland,1.0,6.0
+1308,2066189,2021-07-17,Illinois,Chicago,0.0,6.0
+1309,2065009,2021-07-16,Pennsylvania,Philadelphia,1.0,4.0
+1310,2065634,2021-07-16,California,Sacramento,2.0,4.0
+1311,2064260,2021-07-16,New Hampshire,Manchester,0.0,4.0
+1312,2066249,2021-07-16,South Carolina,Greenville,1.0,3.0
+1313,2064992,2021-07-16,District of Columbia,Washington,1.0,5.0
+1314,2065118,2021-07-16,Illinois,Chicago,1.0,4.0
+1315,2063495,2021-07-15,Texas,Levelland,1.0,5.0
+1316,2065533,2021-07-15,Massachusetts,Boston,0.0,4.0
+1317,2063897,2021-07-15,Missouri,Lake Ozark,1.0,4.0
+1318,2062097,2021-07-14,Illinois,Chicago,0.0,5.0
+1319,2062359,2021-07-14,Illinois,Chicago,0.0,5.0
+1320,2063394,2021-07-14,Delaware,Claymont,2.0,2.0
+1321,2060865,2021-07-13,Indiana,Indianapolis,0.0,4.0
+1322,2060949,2021-07-13,Michigan,Detroit,1.0,6.0
+1323,2060293,2021-07-12,New Jersey,Iselin,0.0,4.0
+1324,2060706,2021-07-12,Pennsylvania,Beaver Falls,2.0,3.0
+1325,2060605,2021-07-12,New York,Corona (Queens),0.0,4.0
+1326,2059440,2021-07-11,Texas,El Paso (Socorro),1.0,5.0
+1327,2059404,2021-07-10,Pennsylvania,Philadelphia,0.0,6.0
+1328,2058950,2021-07-10,Massachusetts,Boston,0.0,4.0
+1329,2058837,2021-07-10,Ohio,Springfield,1.0,3.0
+1330,2058421,2021-07-09,California,Los Angeles,0.0,4.0
+1331,2057427,2021-07-08,Connecticut,Hartford,0.0,4.0
+1332,2053262,2021-07-05,Ohio,Toledo,1.0,11.0
+1333,2053500,2021-07-05,California,Santa Rosa,1.0,3.0
+1334,2055252,2021-07-05,New York,Buffalo,1.0,3.0
+1335,2053048,2021-07-05,Illinois,Chicago,2.0,4.0
+1336,2052524,2021-07-04,California,Thermal,0.0,4.0
+1337,2054233,2021-07-04,Ohio,Cleveland,0.0,4.0
+1338,2054132,2021-07-04,Illinois,Peoria,1.0,3.0
+1339,2053508,2021-07-04,Nevada,North Las Vegas,2.0,7.0
+1340,2052342,2021-07-04,Nebraska,Omaha,1.0,4.0
+1341,2052689,2021-07-04,Illinois,Danville,0.0,4.0
+1342,2053346,2021-07-04,Texas,Dallas,3.0,3.0
+1343,2053786,2021-07-04,Missouri,Kansas City,0.0,4.0
+1344,2053365,2021-07-04,Texas,Dallas,0.0,5.0
+1345,2052353,2021-07-04,Texas,Fort Worth,0.0,8.0
+1346,2053563,2021-07-04,Illinois,Rantoul,0.0,5.0
+1347,2052058,2021-07-03,North Carolina,Chadbourn,3.0,1.0
+1348,2051763,2021-07-03,Pennsylvania,Lancaster,0.0,4.0
+1349,2052471,2021-07-03,Georgia,Swainsboro,1.0,3.0
+1350,2052346,2021-07-03,Illinois,Chicago,0.0,4.0
+1351,2050836,2021-07-02,Virginia,Norfolk,0.0,4.0
+1352,2051190,2021-07-02,Pennsylvania,Philadelphia,1.0,4.0
+1353,2050972,2021-07-02,Illinois,Champaign,1.0,4.0
+1354,2050593,2021-07-01,Illinois,Chicago,0.0,7.0
+1355,2050151,2021-07-01,South Carolina,Spartanburg,2.0,4.0
+1356,2050353,2021-07-01,Virginia,Chesapeake,2.0,2.0
+1357,2049419,2021-06-30,Illinois,Chicago,0.0,4.0
+1358,2049907,2021-06-30,Louisiana,Marrero,0.0,4.0
+1359,2050167,2021-06-30,Delaware,Dover,1.0,3.0
+1360,2049845,2021-06-30,Texas,Houston,3.0,1.0
+1361,2046714,2021-06-27,Illinois,Chicago,1.0,5.0
+1362,2046574,2021-06-27,Illinois,Saint Charles,1.0,3.0
+1363,2046897,2021-06-27,Illinois,Chicago,1.0,10.0
+1364,2047170,2021-06-27,Tennessee,Memphis,3.0,1.0
+1365,2047726,2021-06-27,North Carolina,Greensboro,0.0,4.0
+1366,2046781,2021-06-26,Texas,Houston,1.0,3.0
+1367,2045579,2021-06-26,Illinois,Chicago,1.0,3.0
+1368,2047787,2021-06-26,Alabama,Fort Deposit,1.0,3.0
+1369,2045043,2021-06-25,Ohio,Columbus,0.0,4.0
+1370,2045564,2021-06-25,Illinois,Chicago,0.0,4.0
+1371,2044701,2021-06-25,New York,Bronx,0.0,5.0
+1372,2044733,2021-06-24,Florida,Gainesville,1.0,4.0
+1373,2043834,2021-06-23,Alabama,Montgomery,2.0,2.0
+1374,2043465,2021-06-23,New York,Buffalo,0.0,4.0
+1375,2043898,2021-06-23,Illinois,Chicago,0.0,4.0
+1376,2043715,2021-06-23,Illinois,Chicago,0.0,4.0
+1377,2041726,2021-06-21,Missouri,Saint Louis,3.0,4.0
+1378,2041555,2021-06-21,District of Columbia,Washington,0.0,4.0
+1379,2040643,2021-06-20,Virginia,Richmond,1.0,3.0
+1380,2041297,2021-06-20,California,Richmond,3.0,5.0
+1381,2040265,2021-06-20,Colorado,Aurora,1.0,4.0
+1382,2041363,2021-06-20,Florida,Wildwood,1.0,10.0
+1383,2040374,2021-06-20,Texas,Dallas,0.0,8.0
+1384,2040243,2021-06-20,Indiana,Granger,1.0,4.0
+1385,2040991,2021-06-20,New Jersey,Atlantic City,1.0,3.0
+1386,2040732,2021-06-20,Ohio,Cincinnati,1.0,3.0
+1387,2039457,2021-06-19,Alaska,Anchorage,1.0,4.0
+1388,2039346,2021-06-19,Louisiana,Baton Rouge,2.0,4.0
+1389,2040013,2021-06-19,New Jersey,Newark,0.0,4.0
+1390,2039964,2021-06-19,California,Oakland,1.0,7.0
+1391,2039441,2021-06-18,Minnesota,Minneapolis,0.0,5.0
+1392,2037813,2021-06-17,Virginia,Petersburg,0.0,4.0
+1393,2037887,2021-06-17,North Carolina,Durham,2.0,2.0
+1394,2038622,2021-06-17,Ohio,Cincinnati,1.0,3.0
+1395,2038152,2021-06-17,New Jersey,Paterson,0.0,4.0
+1396,2036635,2021-06-16,Maryland,Baltimore,1.0,5.0
+1397,2036121,2021-06-15,Illinois,Chicago,0.0,5.0
+1398,2035452,2021-06-15,Illinois,Chicago,5.0,3.0
+1399,2035313,2021-06-15,Alabama,Albertville,3.0,2.0
+1400,2035733,2021-06-14,Georgia,Columbus,2.0,2.0
+1401,2034470,2021-06-14,Florida,Boynton Beach,1.0,3.0
+1402,2034408,2021-06-14,Michigan,Lansing,2.0,2.0
+1403,2033905,2021-06-13,Ohio,West Salem,1.0,6.0
+1404,2033605,2021-06-13,Kentucky,Louisville,1.0,3.0
+1405,2033123,2021-06-12,Ohio,Cincinnati,0.0,5.0
+1406,2032220,2021-06-12,Texas,Austin,1.0,14.0
+1407,2032203,2021-06-12,Illinois,Chicago,1.0,9.0
+1408,2032486,2021-06-12,Ohio,Cleveland,3.0,4.0
+1409,2031801,2021-06-11,Washington,Seattle (White Center),2.0,2.0
+1410,2031976,2021-06-11,Georgia,Savannah,2.0,6.0
+1411,2032580,2021-06-11,North Carolina,Winston Salem (Winston-salem),1.0,3.0
+1412,2032282,2021-06-11,Texas,Dallas,0.0,5.0
+1413,2030720,2021-06-10,Michigan,Detroit,1.0,3.0
+1414,2030639,2021-06-10,New York,Yonkers,0.0,4.0
+1415,2029078,2021-06-08,Tennessee,Nashville,1.0,3.0
+1416,2028745,2021-06-08,Tennessee,Memphis,1.0,4.0
+1417,2028928,2021-06-08,Texas,Houston,0.0,5.0
+1418,2027736,2021-06-07,Ohio,Cleveland,0.0,6.0
+1419,2027046,2021-06-07,Florida,Homestead,3.0,3.0
+1420,2026713,2021-06-06,Utah,Salt Lake City,1.0,4.0
+1421,2026802,2021-06-06,Missouri,Saint Louis,0.0,4.0
+1422,2026651,2021-06-06,North Carolina,Snow Hill,0.0,4.0
+1423,2027725,2021-06-06,Ohio,Cleveland,0.0,8.0
+1424,2026123,2021-06-06,Florida,Miami (Kendall),3.0,6.0
+1425,2027375,2021-06-06,California,Oakland,0.0,5.0
+1426,2026112,2021-06-06,Illinois,Chicago,0.0,8.0
+1427,2026257,2021-06-05,Louisiana,New Orleans,0.0,9.0
+1428,2025260,2021-06-05,Indiana,Indianapolis,2.0,2.0
+1429,2025891,2021-06-04,Michigan,Muskegon,1.0,3.0
+1430,2022821,2021-06-02,Ohio,Toledo,0.0,4.0
+1431,2025254,2021-06-02,Arkansas,Magnolia,0.0,4.0
+1432,2022391,2021-06-02,Ohio,Springfield,0.0,6.0
+1433,2021130,2021-05-31,New York,Brooklyn,0.0,4.0
+1434,2021398,2021-05-31,Missouri,Saint Louis,0.0,4.0
+1435,2022129,2021-05-31,Ohio,Cleveland (Garfield Heights),1.0,5.0
+1436,2019751,2021-05-30,Alabama,Aliceville,1.0,4.0
+1437,2019622,2021-05-30,Florida,Hialeah,3.0,20.0
+1438,2020535,2021-05-30,Illinois,Chicago,0.0,4.0
+1439,2019155,2021-05-29,Texas,San Antonio,2.0,2.0
+1440,2019384,2021-05-29,Missouri,Saint Louis,1.0,3.0
+1441,2018931,2021-05-28,Florida,Miami,1.0,6.0
+1442,2018495,2021-05-27,North Carolina,Durham,0.0,5.0
+1443,2015849,2021-05-26,Illinois,Chicago,0.0,4.0
+1444,2015730,2021-05-26,California,San Jose,10.0,0.0
+1445,2014343,2021-05-24,Michigan,Inkster,2.0,2.0
+1446,2014381,2021-05-24,Ohio,West Jefferson,4.0,0.0
+1447,2012971,2021-05-23,Illinois,Chicago,0.0,4.0
+1448,2013595,2021-05-23,New York,Bay Shore,0.0,4.0
+1449,2013059,2021-05-23,New Jersey,Paterson,0.0,5.0
+1450,2013096,2021-05-23,Virginia,Norfolk,0.0,4.0
+1451,2012345,2021-05-22,Delaware,Wilmington,0.0,4.0
+1452,2013043,2021-05-22,Ohio,Columbus,1.0,5.0
+1453,2011569,2021-05-22,Minnesota,Minneapolis,2.0,7.0
+1454,2012765,2021-05-22,South Carolina,North Charleston,1.0,13.0
+1455,2011610,2021-05-22,Indiana,Fort Wayne,1.0,4.0
+1456,2012633,2021-05-22,New Jersey,Bridgeton,3.0,11.0
+1457,2011482,2021-05-21,New Jersey,Jersey City,2.0,4.0
+1458,2011077,2021-05-21,New York,Albany,1.0,5.0
+1459,2010083,2021-05-20,Indiana,Evansville,0.0,4.0
+1460,2007722,2021-05-18,California,Oakland,2.0,5.0
+1461,2008415,2021-05-18,California,Hemet,1.0,4.0
+1462,2005991,2021-05-16,Ohio,Cincinnati,1.0,3.0
+1463,2005776,2021-05-16,Georgia,Atlanta,0.0,4.0
+1464,2005671,2021-05-16,Michigan,East Lansing,0.0,5.0
+1465,2006621,2021-05-16,Georgia,Columbus,0.0,4.0
+1466,2006204,2021-05-16,Georgia,Stone Mountain,1.0,5.0
+1467,2005813,2021-05-16,Alabama,Birmingham,1.0,4.0
+1468,2005196,2021-05-15,New York,Bronx,1.0,4.0
+1469,2005238,2021-05-15,District of Columbia,Washington,1.0,3.0
+1470,2004666,2021-05-15,Illinois,Chicago,2.0,3.0
+1471,2004413,2021-05-14,Pennsylvania,Philadelphia,0.0,4.0
+1472,2003383,2021-05-13,Georgia,Augusta,2.0,2.0
+1473,2003167,2021-05-13,District of Columbia,Washington,0.0,4.0
+1474,2003334,2021-05-13,Rhode Island,Providence,0.0,8.0
+1475,2002286,2021-05-12,Georgia,Buford,2.0,2.0
+1476,2002269,2021-05-12,Pennsylvania,Philadelphia,1.0,3.0
+1477,2001137,2021-05-11,Maryland,Baltimore,0.0,4.0
+1478,2001362,2021-05-10,Alabama,Montgomery,0.0,7.0
+1479,1999125,2021-05-09,Colorado,Colorado Springs,7.0,0.0
+1480,1999193,2021-05-09,Arizona,Phoenix,1.0,7.0
+1481,1999909,2021-05-09,California,Los Angeles,1.0,3.0
+1482,2000132,2021-05-09,South Carolina,Charleston,0.0,5.0
+1483,1999423,2021-05-09,New Jersey,Newark,0.0,4.0
+1484,1999417,2021-05-09,Pennsylvania,Philadelphia,2.0,3.0
+1485,1998865,2021-05-08,California,Citrus Heights,0.0,4.0
+1486,1998693,2021-05-08,California,Oakland,0.0,4.0
+1487,1998476,2021-05-08,Maryland,Gwynn Oak (Woodlawn),4.0,1.0
+1488,1998537,2021-05-08,Michigan,Detroit,0.0,4.0
+1489,1999307,2021-05-08,California,Compton,2.0,2.0
+1490,1998602,2021-05-08,Wisconsin,Milwaukee,0.0,4.0
+1491,1998067,2021-05-07,Missouri,Saint Louis (Kinloch),2.0,4.0
+1492,1999434,2021-05-06,New Jersey,Paterson,0.0,5.0
+1493,1996236,2021-05-05,Illinois,Chicago,0.0,4.0
+1494,1993551,2021-05-03,Michigan,Saginaw,1.0,4.0
+1495,1993090,2021-05-02,Ohio,Columbus,0.0,4.0
+1496,1993664,2021-05-02,Pennsylvania,Philadelphia,1.0,3.0
+1497,1993221,2021-05-02,Maryland,Baltimore,1.0,3.0
+1498,1993280,2021-05-02,Illinois,Chicago,0.0,5.0
+1499,1992570,2021-05-02,Minnesota,Saint Paul,0.0,4.0
+1500,1992127,2021-05-01,Delaware,Wilmington,0.0,4.0
+1501,1992534,2021-05-01,Louisiana,New Orleans,2.0,4.0
+1502,1992410,2021-05-01,New York,New Rochelle,1.0,4.0
+1503,1992490,2021-05-01,Massachusetts,Holyoke,0.0,5.0
+1504,1992469,2021-05-01,Florida,Clewiston,1.0,3.0
+1505,1990821,2021-04-29,Georgia,Atlanta,1.0,5.0
+1506,1990600,2021-04-28,Florida,Miami,0.0,5.0
+1507,1989840,2021-04-28,North Carolina,Boone,5.0,0.0
+1508,1988688,2021-04-27,Virginia,Richmond,2.0,3.0
+1509,1989023,2021-04-27,Alabama,Fairfield,1.0,4.0
+1510,1987241,2021-04-26,Louisiana,Houma,0.0,5.0
+1511,1988326,2021-04-26,Oregon,Gresham,0.0,7.0
+1512,1991347,2021-04-25,Texas,Palestine,0.0,4.0
+1513,1986770,2021-04-25,Missouri,Kansas City,1.0,4.0
+1514,1987235,2021-04-25,Alabama,Phenix City,0.0,4.0
+1515,1986593,2021-04-25,Arkansas,Little Rock,1.0,3.0
+1516,1985432,2021-04-24,Louisiana,New Orleans,0.0,5.0
+1517,1984807,2021-04-22,California,San Diego,1.0,4.0
+1518,1981805,2021-04-19,Texas,Houston,2.0,4.0
+1519,1982260,2021-04-19,Georgia,Atlanta,0.0,5.0
+1520,1982020,2021-04-18,Alabama,Montgomery,1.0,4.0
+1521,1981521,2021-04-18,Michigan,Detroit,1.0,5.0
+1522,1981353,2021-04-18,Louisiana,Shreveport,0.0,6.0
+1523,1980689,2021-04-18,Wisconsin,Kenosha,3.0,3.0
+1524,1980492,2021-04-17,Ohio,Columbus,1.0,5.0
+1525,1980971,2021-04-17,Louisiana,La Place (Laplace),0.0,9.0
+1526,1979684,2021-04-16,Michigan,Detroit,0.0,4.0
+1527,1978635,2021-04-15,Indiana,Indianapolis,9.0,7.0
+1528,1978561,2021-04-15,District of Columbia,Washington,0.0,4.0
+1529,1979869,2021-04-15,Louisiana,Lake Charles,1.0,3.0
+1530,1978616,2021-04-15,Florida,Pensacola,0.0,6.0
+1531,1978652,2021-04-15,Illinois,Chicago,0.0,4.0
+1532,1976538,2021-04-13,Maryland,Baltimore,0.0,4.0
+1533,1975296,2021-04-12,Illinois,Chicago,1.0,3.0
+1534,1974943,2021-04-11,Kansas,Wichita,1.0,3.0
+1535,1975004,2021-04-11,Washington,Seattle,0.0,4.0
+1536,1974088,2021-04-10,Tennessee,Memphis,1.0,3.0
+1537,1973809,2021-04-10,Michigan,Allendale,0.0,4.0
+1538,1973692,2021-04-10,Missouri,Koshkonong,1.0,3.0
+1539,1975405,2021-04-10,Connecticut,Waterbury,0.0,4.0
+1540,1973844,2021-04-09,Texas,Fort Worth,1.0,5.0
+1541,1972187,2021-04-08,Texas,Bryan,1.0,5.0
+1542,1971410,2021-04-07,South Carolina,Rock Hill,7.0,0.0
+1543,1970937,2021-04-07,Wisconsin,Milwaukee,2.0,3.0
+1544,1973435,2021-04-07,Ohio,Dayton,0.0,4.0
+1545,1969899,2021-04-06,District of Columbia,Washington,0.0,4.0
+1546,1970245,2021-04-06,Michigan,Detroit,1.0,3.0
+1547,1970378,2021-04-05,Illinois,Chicago,0.0,7.0
+1548,1969065,2021-04-05,Maryland,Baltimore,0.0,5.0
+1549,1969505,2021-04-04,Louisiana,Monroe,0.0,6.0
+1550,1968887,2021-04-04,Alabama,Birmingham,1.0,5.0
+1551,1969633,2021-04-04,Texas,Beaumont,0.0,4.0
+1552,1967914,2021-04-03,North Carolina,Wilmington,3.0,4.0
+1553,1967893,2021-04-03,Alabama,Tuscaloosa,0.0,5.0
+1554,1969221,2021-04-03,Texas,Allen,6.0,0.0
+1555,1968553,2021-04-03,Florida,Quincy,0.0,7.0
+1556,1966181,2021-03-31,California,Orange,4.0,2.0
+1557,1965890,2021-03-31,District of Columbia,Washington,2.0,3.0
+1558,1963556,2021-03-28,Ohio,Cleveland,0.0,7.0
+1559,1964085,2021-03-28,Illinois,Chicago,0.0,4.0
+1560,1963598,2021-03-28,Maryland,Essex,5.0,1.0
+1561,1964030,2021-03-28,Texas,San Antonio,0.0,4.0
+1562,1963052,2021-03-27,Illinois,Chicago,0.0,4.0
+1563,1962934,2021-03-27,Mississippi,Yazoo City,0.0,6.0
+1564,1962686,2021-03-27,Illinois,River Grove,1.0,3.0
+1565,1962562,2021-03-26,Virginia,Virginia Beach,0.0,9.0
+1566,1961753,2021-03-26,Illinois,Chicago,1.0,7.0
+1567,1964271,2021-03-26,Virginia,Norfolk,0.0,4.0
+1568,1962890,2021-03-26,Tennessee,Memphis,3.0,2.0
+1569,1962507,2021-03-26,Pennsylvania,Philadelphia,0.0,7.0
+1570,1960283,2021-03-23,Alabama,Aliceville,2.0,2.0
+1571,1958652,2021-03-22,Colorado,Boulder,10.0,1.0
+1572,1959549,2021-03-22,Michigan,Detroit,1.0,3.0
+1573,1957188,2021-03-20,Texas,Houston,0.0,5.0
+1574,1957226,2021-03-20,Texas,Dallas,1.0,7.0
+1575,1957252,2021-03-20,Pennsylvania,Philadelphia,1.0,5.0
+1576,1956081,2021-03-18,Oregon,Gresham,0.0,4.0
+1577,1955948,2021-03-18,Louisiana,New Orleans,0.0,4.0
+1578,1956001,2021-03-17,California,Stockton,0.0,5.0
+1579,1954379,2021-03-16,Georgia,Acworth,8.0,1.0
+1580,1954950,2021-03-16,Arizona,Phoenix,4.0,1.0
+1581,1953309,2021-03-15,Indiana,Indianapolis,1.0,4.0
+1582,1953202,2021-03-14,Florida,Tampa,0.0,4.0
+1583,1952662,2021-03-14,Illinois,Chicago,0.0,4.0
+1584,1952281,2021-03-14,Illinois,Chicago,2.0,13.0
+1585,1952151,2021-03-13,New York,Brooklyn,0.0,5.0
+1586,1951681,2021-03-13,Florida,Orlando,1.0,3.0
+1587,1952161,2021-03-13,Indiana,Indianapolis,4.0,1.0
+1588,1951738,2021-03-13,Virginia,Richmond,2.0,4.0
+1589,1951476,2021-03-12,North Carolina,Greensboro,1.0,3.0
+1590,1951383,2021-03-12,Texas,Austin,0.0,4.0
+1591,1950346,2021-03-11,New Mexico,Ohkay Owingeh (Chamita),1.0,3.0
+1592,1950471,2021-03-11,Pennsylvania,Philadelphia,2.0,2.0
+1593,1949977,2021-03-10,Texas,Houston,3.0,1.0
+1594,1948233,2021-03-08,Florida,Clearwater,1.0,3.0
+1595,1948470,2021-03-07,Mississippi,Edwards,0.0,4.0
+1596,1947241,2021-03-06,California,Yuba City,2.0,3.0
+1597,1945999,2021-03-06,North Carolina,Fayetteville,1.0,4.0
+1598,1946991,2021-03-05,California,Compton,1.0,4.0
+1599,1944507,2021-03-04,District of Columbia,Washington,0.0,5.0
+1600,1943986,2021-03-03,Pennsylvania,Erie,2.0,3.0
+1601,1941382,2021-02-28,Ohio,Cincinnati,3.0,3.0
+1602,1941669,2021-02-28,Indiana,East Chicago,0.0,4.0
+1603,1940791,2021-02-28,Delaware,Dover,0.0,4.0
+1604,1941647,2021-02-28,South Carolina,Mccormick,0.0,4.0
+1605,1941444,2021-02-28,Louisiana,Shreveport,0.0,5.0
+1606,1941210,2021-02-28,Texas,Houston,0.0,4.0
+1607,1943271,2021-02-27,Mississippi,Columbus,0.0,4.0
+1608,1940190,2021-02-27,Mississippi,Pattison,2.0,3.0
+1609,1940069,2021-02-26,Texas,Houston,1.0,5.0
+1610,1939789,2021-02-26,Louisiana,Baton Rouge,0.0,4.0
+1611,1939958,2021-02-26,California,San Diego,1.0,3.0
+1612,1934704,2021-02-21,Missouri,Kennett,1.0,4.0
+1613,1935235,2021-02-21,North Carolina,Teachey,0.0,4.0
+1614,1934225,2021-02-20,Pennsylvania,Norristown (East Norriton),1.0,4.0
+1615,1933975,2021-02-20,Colorado,Grand Junction,1.0,3.0
+1616,1934181,2021-02-20,Illinois,Springfield,1.0,4.0
+1617,1934077,2021-02-20,Louisiana,Metairie,3.0,2.0
+1618,1932479,2021-02-18,Louisiana,Baton Rouge,1.0,3.0
+1619,1931288,2021-02-17,Pennsylvania,Philadelphia,0.0,8.0
+1620,1930463,2021-02-16,Florida,Saint Petersburg,3.0,1.0
+1621,1928557,2021-02-13,California,San Francisco,0.0,6.0
+1622,1928594,2021-02-13,Indiana,Indianapolis,0.0,4.0
+1623,1928149,2021-02-13,California,Oakland,0.0,6.0
+1624,1928205,2021-02-13,North Carolina,Cary,1.0,3.0
+1625,1926742,2021-02-11,Georgia,Columbus,1.0,4.0
+1626,1926701,2021-02-10,Georgia,Atlanta,0.0,4.0
+1627,1924892,2021-02-09,Texas,Houston,0.0,4.0
+1628,1924338,2021-02-09,Minnesota,Buffalo,1.0,4.0
+1629,1921939,2021-02-06,Tennessee,Murfreesboro,1.0,4.0
+1630,1923786,2021-02-06,Louisiana,Thibodaux,0.0,4.0
+1631,1921768,2021-02-06,Illinois,Bloomingdale,1.0,5.0
+1632,1922354,2021-02-06,Washington,Tacoma,1.0,3.0
+1633,1921641,2021-02-05,Pennsylvania,Mohnton,1.0,3.0
+1634,1924951,2021-02-05,Mississippi,Benoit,3.0,1.0
+1635,1920771,2021-02-04,North Carolina,High Point,2.0,3.0
+1636,1919696,2021-02-03,Colorado,Oak Creek,3.0,2.0
+1637,1919399,2021-02-03,Tennessee,Memphis,1.0,3.0
+1638,1917918,2021-02-02,Florida,Fort Lauderdale (Sunrise),3.0,3.0
+1639,1917909,2021-02-02,Oklahoma,Muskogee,6.0,1.0
+1640,1917661,2021-02-01,New York,Rochester,1.0,3.0
+1641,1916468,2021-01-31,Illinois,Chicago,0.0,4.0
+1642,1916374,2021-01-30,New York,Albany,1.0,4.0
+1643,1914798,2021-01-29,Pennsylvania,Mc Kees Rocks (Mckees Rocks),2.0,3.0
+1644,1914942,2021-01-28,Michigan,Flint,1.0,4.0
+1645,1913708,2021-01-27,California,Santa Ana,0.0,4.0
+1646,1911026,2021-01-25,District of Columbia,Washington,1.0,4.0
+1647,1910136,2021-01-24,Indiana,Indianapolis,5.0,1.0
+1648,1910619,2021-01-24,Nevada,Las Vegas,0.0,5.0
+1649,1909849,2021-01-22,Kentucky,Covington,0.0,5.0
+1650,1908542,2021-01-21,California,Oakland,1.0,3.0
+1651,1905423,2021-01-18,Pennsylvania,Tobyhanna,0.0,4.0
+1652,1904063,2021-01-17,Arizona,Phoenix,0.0,5.0
+1653,1904036,2021-01-17,Arizona,Phoenix,1.0,6.0
+1654,1905360,2021-01-16,Illinois,Kankakee,0.0,5.0
+1655,1903058,2021-01-15,Pennsylvania,Philadelphia,0.0,4.0
+1656,1899819,2021-01-11,Florida,Miami,0.0,4.0
+1657,1898261,2021-01-09,Illinois,Evanston,6.0,2.0
+1658,1897878,2021-01-09,Texas,Houston,1.0,3.0
+1659,1896774,2021-01-07,District of Columbia,Washington,0.0,5.0
+1660,1896384,2021-01-06,Texas,Livingston,2.0,2.0
+1661,1896252,2021-01-06,Virginia,Manassas,3.0,3.0
+1662,1894822,2021-01-04,Louisiana,New Orleans,0.0,4.0
+1663,1894979,2021-01-04,Florida,Tampa,0.0,5.0
+1664,1894941,2021-01-04,Florida,Fort Lauderdale (Lauderhill),0.0,7.0
+1665,1893953,2021-01-03,Oregon,Gresham,0.0,4.0
+1666,1893327,2021-01-03,Texas,Houston,1.0,4.0
+1667,1893754,2021-01-03,Florida,Miami,0.0,6.0
+1668,1893601,2021-01-03,Louisiana,Shreveport,2.0,3.0
+1669,1893877,2021-01-03,California,Santa Barbara,2.0,2.0
+1670,1893744,2021-01-03,Florida,Miami,0.0,8.0
+1671,1892034,2021-01-01,Arkansas,Fort Smith,0.0,7.0
+1672,1892704,2021-01-01,Texas,Amarillo,1.0,3.0
+1673,1892114,2021-01-01,Iowa,Sioux City,1.0,4.0
+1674,1891720,2021-01-01,Illinois,Galesburg,0.0,4.0
